@@ -4,10 +4,8 @@ import requests
 
 ignore = []
 urls = []
-# make = "honda"
-# model = "civic"
-make = "audi"
-model = "r8"
+make = "honda"
+model = "civic"
 known_trims = ["si", "lx"]
 owners = True
 dealers = False
