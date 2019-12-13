@@ -11,6 +11,7 @@ owners = True
 dealers = False
 car_links = []
 
+
 def get_all_urls():
     urls = []
     response = requests.get(r"https://www.craigslist.org/about/sites")
@@ -22,8 +23,6 @@ def get_all_urls():
 
     return(urls)
     # --- this uses regex and is not as robust ---
-    # print(all_states)
-    # states[]
     # soup = BeautifulSoup(response.text, "html.parser")
     # sites = soup.select("a[href^=\"https\"]")    #
     # for site in sites:
@@ -52,9 +51,3 @@ def get_links_from_search(url):
             if url in car_url:
                 print(car_url)
                 car_links.append(car_url)
-
-
-urls.extend(get_all_urls())
-for url in urls:
-    get_links_from_search(url)
-print(len(car_links))
