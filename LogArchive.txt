@@ -1,0 +1,694 @@
+12/14/2019, 22:49:55 Note: Attribute search error for https://anchorage.craigslist.org/cto/d/anchorage-2013-honda-civic-lx-clean/7027867727.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:49:59 Note: Attribute search error for https://mohave.craigslist.org/cto/d/hackberry-1996-honda-hatch-back/7020443308.html'NoneType' object is not subscriptable
+12/14/2019, 22:50:01 CRASH: https://phoenix.craigslist.org/cph/cto/d/phoenix-1997-honda-civic-dx/7038328482.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:50:01 Note: Attribute search error for https://phoenix.craigslist.org/cph/cto/d/scottsdale-honda-civic-type/7038305379.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:50:05 Note: Attribute search error for https://phoenix.craigslist.org/wvl/cto/d/phoenix-2018-honda-civic-lx/7037549626.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:50:13 Note: Attribute search error for https://phoenix.craigslist.org/wvl/cto/d/goodyear-98-honda-civic-c/7029216782.html'NoneType' object is not subscriptable
+12/14/2019, 22:50:15 Note: Attribute search error for https://phoenix.craigslist.org/evl/cto/d/chandler-2014-honda-civic/7028395914.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:50:21 Note: Attribute search error for https://prescott.craigslist.org/cto/d/tempe-97-ek-honda-civic-hatchback/7036949187.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:50:51 Note: Attribute search error for https://littlerock.craigslist.org/cto/d/conway-1999-honda-civic-ek-hatch/7038348596.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:50:52 Note: Attribute search error for https://littlerock.craigslist.org/cto/d/little-rock-2000-honda-civic/7034782205.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:51:10 CRASH: https://fresno.craigslist.org/cto/d/fresno-2006-honda-civicbad-motor/7036718153.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/14/2019, 22:51:12 Note: Attribute search error for https://fresno.craigslist.org/cto/d/clovis-honda-civic-hybrid/7032845649.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:51:16 Note: Attribute search error for https://goldcountry.craigslist.org/cto/d/standard-1994-honda-civic/7035643195.html'NoneType' object is not subscriptable
+12/14/2019, 22:51:18 Note: Attribute search error for https://humboldt.craigslist.org/cto/d/whitethorn-honda-civic/7031869132.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:51:37 Note: Attribute search error for https://inlandempire.craigslist.org/cto/d/upland-honda-civic-17-liter-02/7021330361.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:51:42 Note: Attribute search error for https://losangeles.craigslist.org/lac/cto/d/corona-2010-honda-civic-gx-24k-miles/7037836174.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:51:46 Note: Attribute search error for https://losangeles.craigslist.org/sfv/cto/d/van-nuys-2018-honda-civic-type-only-8k/7036779156.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:51:47 Note: Attribute search error for https://losangeles.craigslist.org/sgv/cto/d/city-of-industry-2008-honda-civic-ex-on/7036554452.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:51:48 Note: Attribute search error for https://losangeles.craigslist.org/sgv/cto/d/whittier-honda-civic-2009-clean-title/7036087198.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:52:06 Note: Attribute search error for https://modesto.craigslist.org/cto/d/modesto-honda-civic-low-miles33mpg/7038244034.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:52:10 Note: Attribute search error for https://modesto.craigslist.org/cto/d/modesto-honda-civic-low-miles33mpg/7035474627.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:53:14 Note: Attribute search error for https://orangecounty.craigslist.org/cto/d/san-clemente-honda-civic/7034732534.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:53:26 Note: Attribute search error for https://orangecounty.craigslist.org/cto/d/palm-springs-1992-eg8-civic-turbo/7033193390.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:53:27 Note: Attribute search error for https://orangecounty.craigslist.org/cto/d/la-jolla-1992-eg8-civic-turbo/7033192973.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:53:27 Note: Attribute search error for https://orangecounty.craigslist.org/cto/d/cabazon-1992-eg8-civic-turbo/7033192649.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:53:28 Note: Attribute search error for https://orangecounty.craigslist.org/cto/d/maywood-1992-eg8-civic-turbo/7033191849.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:53:42 Note: Attribute search error for https://orangecounty.craigslist.org/cto/d/irvine-2007-honda-civic/7029154849.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:53:45 Note: Attribute search error for https://orangecounty.craigslist.org/cto/d/newport-coast-1992-eg8-civic-turbo/7028290753.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:53:58 Note: Attribute search error for https://orangecounty.craigslist.org/cto/d/newport-coast-track-car-1992-eg8-civic/7025368526.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:54:03 Note: Attribute search error for https://orangecounty.craigslist.org/cto/d/corona-honda-civic-lx/7023971062.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:54:06 Note: Attribute search error for https://orangecounty.craigslist.org/cto/d/los-angeles-track-car-1992-eg8-civic/7022913119.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:54:18 CRASH: https://redding.craigslist.org/cto/d/2016-honda-civic-lx/7034062010.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/14/2019, 22:54:21 CRASH: https://redding.craigslist.org/cto/d/2016-honda-civic-lx/7024204432.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/14/2019, 22:54:33 Note: Attribute search error for https://sacramento.craigslist.org/cto/d/sacramento-honda-civic-40mpg-power/7037376332.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:55:35 Note: Attribute search error for https://sacramento.craigslist.org/cto/d/sacramento-honda-civic-40mpg-power/7022853254.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:56:05 Note: Attribute search error for https://sandiego.craigslist.org/csd/cto/d/chula-vista-used-2015-civic-honda-lx-in/7036872151.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:56:37 Note: Attribute search error for https://sandiego.craigslist.org/csd/cto/d/san-diego-2015-honda-civic-lx-coupe/7031208046.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:56:40 CRASH: https://sandiego.craigslist.org/nsd/cto/d/2013-honda-civic-lx-coupe-2d-5-vel/7030780508.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/14/2019, 22:57:25 CRASH: https://sfbay.craigslist.org/sby/cto/d/2003-honda-civic-smogged/7038447979.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/14/2019, 22:57:35 Note: Attribute search error for https://sfbay.craigslist.org/nby/cto/d/guerneville-1998-honda-civic-mechanics/7037359512.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:57:45 Note: Attribute search error for https://sfbay.craigslist.org/eby/cto/d/hayward-2018-honda-civic-sport/7034975490.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:57:50 Note: Attribute search error for https://slo.craigslist.org/cto/d/atascadero-2006-honda-civic-gx-low-miles/7022897138.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:57:51 CRASH: https://slo.craigslist.org/cto/d/los-osos-2004-civic-hybrid-needs/7020762635.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:57:57 Note: Attribute search error for https://santabarbara.craigslist.org/cto/d/santa-barbara-honda-civic-lx-2002-needs/7031525972.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:58:10 CRASH: https://stockton.craigslist.org/cto/d/stockton-2013-honda-civic-ex-sedan-4d/7033441235.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/14/2019, 22:58:50 Note: Attribute search error for https://boulder.craigslist.org/cto/d/hygiene-2006-honda-civic-lx/7026099949.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:59:00 CRASH: https://cosprings.craigslist.org/cto/d/colorado-springs-for-sale/7021442642.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:59:01 Note: Attribute search error for https://denver.craigslist.org/cto/d/dupont-05-honda-civic/7038609637.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 22:59:33 CRASH: https://hartford.craigslist.org/cto/d/2012-honda-civic-k-miles-clean-carfax/7035717643.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/14/2019, 22:59:38 CRASH: https://hartford.craigslist.org/cto/d/2012-honda-civic-k-miles-clean-carfax/7031525324.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/14/2019, 22:59:42 CRASH: https://hartford.craigslist.org/cto/d/2012-honda-civic-k-miles-clean-carfax/7028110943.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/14/2019, 22:59:46 CRASH: https://hartford.craigslist.org/cto/d/2012-honda-civic-k-miles-clean-carfax/7025669349.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/14/2019, 22:59:55 Note: Attribute search error for https://newhaven.craigslist.org/cto/d/new-haven-2005-honda-civic-si/7030682576.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:00:48 CRASH: https://washingtondc.craigslist.org/mld/cto/d/clarksville-2006-honda-civic/7034951292.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:01:08 Note: Attribute search error for https://washingtondc.craigslist.org/mld/cto/d/montgomery-village-2004-honda-civic/7031112319.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:01:13 Note: Attribute search error for https://washingtondc.craigslist.org/mld/cto/d/montgomery-village-2004-honda-civic/7029989562.html'NoneType' object is not subscriptable
+12/14/2019, 23:01:18 Note: Attribute search error for https://washingtondc.craigslist.org/mld/cto/d/silver-spring-2010-honda-civic-lx-with/7028219861.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:01:39 Note: Attribute search error for https://daytona.craigslist.org/cto/d/palm-coast-2016-honda-civic-touring/7038059443.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:01:53 CRASH: https://fortmyers.craigslist.org/col/cto/d/2014-honda-civic/7035054986.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/14/2019, 23:02:29 Note: Attribute search error for https://ocala.craigslist.org/cto/d/hernando-honda-civic/7036951368.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:03:03 Note: Attribute search error for https://orlando.craigslist.org/cto/d/orlando-honda-civic/7024463978.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:03:22 CRASH: https://miami.craigslist.org/brw/cto/d/2013-honda-civic-lx/7038596942.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/14/2019, 23:03:39 Note: Attribute search error for https://miami.craigslist.org/mdc/cto/d/miami-2010-honda-civic/7037031276.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:04:08 CRASH: https://miami.craigslist.org/brw/cto/d/2009-honda-civic-si-sedan-fa5-1-owner/7033480107.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/14/2019, 23:04:18 Note: Attribute search error for https://miami.craigslist.org/mdc/cto/d/miami-2010-honda-civic/7032602378.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:04:37 Note: Attribute search error for https://miami.craigslist.org/brw/cto/d/hollywood-2012-honda-civic-for-sale/7030465326.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:04:49 CRASH: https://spacecoast.craigslist.org/cto/d/melbourne-bogo-honda-civic/7031405279.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:04:54 Note: Attribute search error for https://spacecoast.craigslist.org/cto/d/merritt-island-2002-honda-civic/7022750409.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:05:00 Note: Attribute search error for https://tampa.craigslist.org/pnl/cto/d/saint-petersburg-2012-honda-civic/7038269031.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:05:25 Note: Attribute search error for https://tampa.craigslist.org/pnl/cto/d/saint-petersburg-2012-honda-civic/7028906907.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:05:46 Note: Attribute search error for https://athensga.craigslist.org/cto/d/athens-2007-honda-civic-si/7035516710.html'NoneType' object is not subscriptable
+12/14/2019, 23:06:39 Note: Attribute search error for https://atlanta.craigslist.org/nat/cto/d/acworth-2012-honda-civic/7028560336.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:06:45 Note: Attribute search error for https://augusta.craigslist.org/cto/d/gracewood-2008-honda-civic-lx-sedan-in/7021361093.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:07:00 CRASH: https://honolulu.craigslist.org/big/cto/d/kamuela-honda-civic/7038194707.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:08:18 Note: Attribute search error for https://chambana.craigslist.org/cto/d/savoy-2015-honda-civic/7036504564.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:08:19 Note: Attribute search error for https://chambana.craigslist.org/cto/d/savoy-2015-honda-civic/7022494325.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:09:10 Note: Attribute search error for https://ksu.craigslist.org/cto/d/fort-riley-2005-honda-civic-lx-sedan/7022183069.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:09:36 Note: Attribute search error for https://neworleans.craigslist.org/cto/d/new-orleans-2011-honda-civic/7027921771.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:09:36 Note: Attribute search error for https://neworleans.craigslist.org/cto/d/new-orleans-2011-honda-civic/7022897165.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:09:38 Note: Attribute search error for https://maine.craigslist.org/cto/d/orono-2008-honda-civic-lx-clean-title/7035105912.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:09:40 Note: Attribute search error for https://maine.craigslist.org/cto/d/surry-honda-civic-lx/7029281830.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:09:59 Note: Attribute search error for https://baltimore.craigslist.org/cto/d/gwynn-oak-2012-honda-civic-ex-sedan/7029452855.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:10:43 Note: Attribute search error for https://boston.craigslist.org/gbs/cto/d/marlborough-2006-honda-civic-lx-sedan-4d/7033373861.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:11:23 Note: Attribute search error for https://boston.craigslist.org/gbs/cto/d/chelsea-2014-honda-civic-excellent/7022840382.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:11:25 CRASH: https://boston.craigslist.org/bmw/cto/d/sherborn-2009-honda-civic-ex/7022161980.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:11:32 Note: Attribute search error for https://boston.craigslist.org/nos/cto/d/melrose-2008-honda-civic/7019755318.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:11:33 CRASH: https://boston.craigslist.org/gbs/cto/d/cambridge-2006-honda-civic-hybrid-140k/7004747565.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/14/2019, 23:12:02 Note: Attribute search error for https://annarbor.craigslist.org/cto/d/ann-arbor-2017-honda-civic-sport-lx/7035597703.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:12:14 Note: Attribute search error for https://detroit.craigslist.org/okl/cto/d/oak-park-2003-honda-civic-ex/7036187505.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:12:19 CRASH: https://detroit.craigslist.org/okl/cto/d/west-bloomfield-2008-honda-civic/7034266718.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/14/2019, 23:13:00 CRASH: https://swmi.craigslist.org/cto/d/bridgman-1998-honda-civic-hx/7035129756.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:13:38 Note: Attribute search error for https://kansascity.craigslist.org/cto/d/olathe-2005-honda-civic-ex-edition/7038311331.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:13:44 Note: Attribute search error for https://kansascity.craigslist.org/cto/d/lees-summit-2005-honda-civic/7032710654.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:13:45 Note: Attribute search error for https://kansascity.craigslist.org/cto/d/independence-2011-honda-civic/7032629585.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:13:47 Note: Attribute search error for https://kansascity.craigslist.org/cto/d/kansas-city-2008-honda-civic-si-5000/7032052035.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:13:55 Note: Attribute search error for https://kansascity.craigslist.org/cto/d/independence-2011-honda-civic/7025625179.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:13:57 Note: Attribute search error for https://kansascity.craigslist.org/cto/d/kansas-city-great-mileage-car/7020199557.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:14:25 Note: Attribute search error for https://kalispell.craigslist.org/cto/d/kalispell-honda-civic/7022216308.html'NoneType' object is not subscriptable
+12/14/2019, 23:14:41 Note: Attribute search error for https://lasvegas.craigslist.org/cto/d/las-vegas-honda-civic-hybrid-2005/7033837496.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:14:46 Note: Attribute search error for https://reno.craigslist.org/cto/d/reno-2001-honda-civic/7026841928.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:15:33 Note: Attribute search error for https://cnj.craigslist.org/cto/d/jackson-2008-honda-civic-hydrid/7031940122.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:15:40 CRASH: https://cnj.craigslist.org/cto/d/2005-honda-civic-hatchback-si/7028631579.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/14/2019, 23:15:44 Note: Attribute search error for https://cnj.craigslist.org/cto/d/pennington-2008-honda-civic-si-sedan/7027867072.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:16:11 Note: Attribute search error for https://newjersey.craigslist.org/cto/d/bloomfield-2001-honda-civic-low-mileage/7029426403.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:16:14 Note: Attribute search error for https://newjersey.craigslist.org/cto/d/bayonne-2008-honda-civic-lx/7025689786.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:17:28 CRASH: https://hudsonvalley.craigslist.org/cto/d/2008-honda-civic-ex/7037918730.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/14/2019, 23:18:09 Note: Attribute search error for https://longisland.craigslist.org/cto/d/bayport-2005-honda-civic-si-black-on/7037349153.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:18:32 Note: Attribute search error for https://longisland.craigslist.org/cto/d/valley-stream-2003-honda-civic/7025746236.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:18:33 Note: Attribute search error for https://longisland.craigslist.org/cto/d/bayport-2005-honda-civic-si-black-on/7025265632.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:18:41 Note: Attribute search error for https://longisland.craigslist.org/cto/d/central-islip-2007-honda-civic/7020106701.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:19:34 Note: Attribute search error for https://newyork.craigslist.org/wch/cto/d/white-plains-2008-honda-civic-coupe/7031320066.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:19:38 Note: Attribute search error for https://newyork.craigslist.org/que/cto/d/valley-stream-honda-civic-si/7029548966.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:20:04 CRASH: https://newyork.craigslist.org/que/cto/d/2013-honda-civic-ex-sdn-sunroofback-up/7025324960.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/14/2019, 23:20:08 Note: Attribute search error for https://plattsburgh.craigslist.org/cto/d/saranac-car-for-sale/7020926290.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:20:16 Note: Attribute search error for https://rochester.craigslist.org/cto/d/penfield-2016-honda-civic/7035678473.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:20:47 Note: Attribute search error for https://charlotte.craigslist.org/cto/d/charlotte-2004-honda-civic-lx/7038681475.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:21:18 Note: Attribute search error for https://charlotte.craigslist.org/cto/d/gold-hill-honda-civic/7025257019.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:21:49 Note: Attribute search error for https://raleigh.craigslist.org/cto/d/clayton-2003-honda-civic/7035043502.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:23:40 Note: Attribute search error for https://columbus.craigslist.org/cto/d/columbus-2008-honda-civic-ex-4-doors/7029233056.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:23:44 Note: Attribute search error for https://columbus.craigslist.org/cto/d/columbus-2018-honda-civic/7028460771.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:23:52 Note: Attribute search error for https://columbus.craigslist.org/cto/d/grove-city-2014-honda-civic-si/7022701562.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:24:03 Note: Attribute search error for https://dayton.craigslist.org/cto/d/springfield-1995-honda-del-sol/7026593997.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:25:00 Note: Attribute search error for https://medford.craigslist.org/cto/d/white-city-2002-honda-civic-ex-low-miles/7035952550.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:25:02 Note: Attribute search error for https://medford.craigslist.org/cto/d/white-city-2002-honda-civic-ex-low-miles/7031623531.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:25:03 Note: Attribute search error for https://medford.craigslist.org/cto/d/white-city-2002-honda-civic-ex-low-miles/7023203029.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:25:16 Note: Attribute search error for https://portland.craigslist.org/mlt/cto/d/kennewick-2004-honda-civic-si-ep3-turbo/7037566388.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:25:28 Note: Attribute search error for https://portland.craigslist.org/clk/cto/d/vancouver-2013-lx-honda-civic-sedan/7035909204.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:25:52 Note: Attribute search error for https://portland.craigslist.org/wsc/cto/d/portland-2012-honda-civic-ex/7031840476.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:25:59 Note: Attribute search error for https://portland.craigslist.org/mlt/cto/d/portland-honda-civic-lx-2000/7030529785.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:26:08 CRASH: https://portland.craigslist.org/wsc/cto/d/honda-civic/7029780221.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/14/2019, 23:26:12 Note: Attribute search error for https://portland.craigslist.org/wsc/cto/d/forest-grove-2005-honda-civic-hybrid/7029121680.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:26:57 Note: Attribute search error for https://allentown.craigslist.org/cto/d/allentown-honda-civic/7037582911.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:27:08 Note: Attribute search error for https://philadelphia.craigslist.org/cto/d/philadelphia-2012-honda-civic-lx/7038376769.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:28:07 Note: Attribute search error for https://columbia.craigslist.org/cto/d/west-columbia-2004-honda-civic-lx2-doors/7033464828.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:28:46 Note: Attribute search error for https://memphis.craigslist.org/cto/d/memphis-2007-honda-civic/7023293834.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:28:51 Note: Attribute search error for https://nashville.craigslist.org/cto/d/nashville-honda-civic-sale/7022091701.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:28:57 Note: Attribute search error for https://abilene.craigslist.org/cto/d/abilene-2017-honda-civic-si/7028242430.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:28:57 Note: Attribute search error for https://abilene.craigslist.org/cto/d/abilene-2017-honda-civic-touring-sedan/7028241912.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:28:57 Note: Attribute search error for https://abilene.craigslist.org/cto/d/abilene-2018-honda-civic-ex-sedan/7028241366.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:29:26 Note: Attribute search error for https://austin.craigslist.org/cto/d/del-valle-2015-honda-civic-lx-silver-at/7029106102.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:29:29 Note: Attribute search error for https://austin.craigslist.org/cto/d/del-valle-2016-honda-civic-lx-black-at/7027744387.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:29:41 Note: Attribute search error for https://austin.craigslist.org/cto/d/del-valle-2015-honda-civic-lx-black-at/7021178963.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:29:53 Note: Attribute search error for https://dallas.craigslist.org/dal/cto/d/haltom-city-2003-honda-civic/7036547738.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:29:59 Note: Attribute search error for https://dallas.craigslist.org/sdf/cto/d/lillian-1989-honda-civic-wagovan/7032087344.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:30:05 Note: Attribute search error for https://dallas.craigslist.org/ftw/cto/d/weatherford-honda-civic-with-new-engine/7024985141.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:30:05 Note: Attribute search error for https://dallas.craigslist.org/mdf/cto/d/arlington-2015-honda-civic-coupe-ex/7024584779.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:30:06 Note: Attribute search error for https://dallas.craigslist.org/dal/cto/d/denton-2006-honda-civic-ex-coupe/7023321307.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:30:10 Note: Attribute search error for https://elpaso.craigslist.org/cto/d/fort-bliss-2002-honda-civic-lx-clean/7038338783.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:30:20 Note: Attribute search error for https://galveston.craigslist.org/cto/d/galveston-awesome-honda-civic-2017-base/7032656579.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:30:23 CRASH: https://houston.craigslist.org/cto/d/2010-honda-civic/7036393390.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/14/2019, 23:30:37 Note: Attribute search error for https://houston.craigslist.org/cto/d/katy-vendo-honda-civic/7021851077.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:31:03 CRASH: https://waco.craigslist.org/cto/d/hillsboro-2015-honda-civic-coupe-lx/7031186620.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/14/2019, 23:31:06 Note: Attribute search error for https://provo.craigslist.org/cto/d/american-fork-2007-honda-civic-hybrid/7033468205.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:31:51 CRASH: https://blacksburg.craigslist.org/cto/d/blacksburg-2013-honda-civic-lx-4d-sold/7030971547.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:32:20 Note: Attribute search error for https://kpr.craigslist.org/cto/d/kennewick-2008-honda-civic-si-fa5/7029922784.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:32:22 Note: Attribute search error for https://kpr.craigslist.org/cto/d/richland-1997-honda-civic-lx-manual/7028757368.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:32:35 Note: Attribute search error for https://seattle.craigslist.org/see/cto/d/seattle-2006-honda-civic-for-sale/7038073302.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:32:52 Note: Attribute search error for https://seattle.craigslist.org/sno/cto/d/everett-2015-honda-civic-exl-coupe-24k/7036018157.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:32:53 Note: Attribute search error for https://seattle.craigslist.org/see/cto/d/seattle-2006-honda-civic/7036011941.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:33:02 Note: Attribute search error for https://seattle.craigslist.org/see/cto/d/lynnwood-2004-honda-civic-lxlow-miles/7034454997.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:33:07 Note: Attribute search error for https://seattle.craigslist.org/sno/cto/d/lynnwood-2002-hondo-civic-ex-2dr-coupe/7033718147.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:33:08 Note: Attribute search error for https://seattle.craigslist.org/skc/cto/d/auburn-2002honda-civic/7033527486.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:33:32 Note: Attribute search error for https://seattle.craigslist.org/est/cto/d/kirkland-2000-honda-civic/7028672837.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:33:37 Note: Attribute search error for https://seattle.craigslist.org/tac/cto/d/lakewood-honda-civic-1995-coupe/7028288365.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:33:57 CRASH: https://spokane.craigslist.org/cto/d/2008-honda-civic-ex-73k-miles/7024011757.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/14/2019, 23:34:32 Note: Attribute search error for https://milwaukee.craigslist.org/cto/d/milwaukee-2004-honda-civic-hybrid/7037346228.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:34:42 Note: Attribute search error for https://milwaukee.craigslist.org/cto/d/milwaukee-2005-honda-civic-ex/7032050245.html'NoneType' object has no attribute 'get_text'
+12/14/2019, 23:34:53 CRASH: https://micronesia.craigslist.org/cto/d/honda-civic/7025518670.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/14/2019, 23:34:54 CRASH: https://micronesia.craigslist.org/cto/d/2014-honda-civic-si-sedan/7031865785.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/14/2019, 23:34:54 CRASH: https://micronesia.craigslist.org/cto/d/2003-honda-civic/7027891893.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/14/2019, 23:34:55 CRASH: https://micronesia.craigslist.org/cto/d/08-honda-civic-lx/7019150113.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/14/2019, 23:34:56 CRASH: https://micronesia.craigslist.org/cto/d/2002-honda-civic-ep3/7025530340.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/14/2019, 23:34:57 CRASH: https://micronesia.craigslist.org/cto/d/2003-honda-civic/6999066422.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/14/2019, 23:34:57 CRASH: https://micronesia.craigslist.org/cto/d/2003-honda-civic-lx-4dr-sedan/7013807406.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/14/2019, 23:34:58 CRASH: https://puertorico.craigslist.org/cto/d/carro/7032742978.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/14/2019, 23:34:59 CRASH: https://puertorico.craigslist.org/cto/d/venta/7027897973.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/14/2019, 23:34:59 CRASH: https://virgin.craigslist.org/cto/d/2003-honda-civic-sedan-for-sale/7017863603.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/14/2019, 23:35:00 CRASH: https://virgin.craigslist.org/cto/d/2003-honda-civic-lx-4dr-sedan/7014562291.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+
+
+12/15/2019, 03:13:49 ERROR: could not read cylinders at https://mohave.craigslist.org/cto/d/hackberry-1996-honda-hatch-back/7020443308.html
+12/15/2019, 03:13:50 CRASH: https://phoenix.craigslist.org/cph/cto/d/phoenix-1997-honda-civic-dx/7038328482.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 03:13:51 Note: attribute only had one index at https://phoenix.craigslist.org/cph/cto/d/scottsdale-honda-civic-type/7038305379.html
+12/15/2019, 03:13:52 Note: attribute only had one index at https://phoenix.craigslist.org/wvl/cto/d/phoenix-2018-honda-civic-lx/7037549626.html
+12/15/2019, 03:13:52 ERROR: could not read cylinders at https://phoenix.craigslist.org/wvl/cto/d/goodyear-98-honda-civic-c/7029216782.html
+12/15/2019, 03:13:53 Note: attribute only had one index at https://phoenix.craigslist.org/evl/cto/d/chandler-2014-honda-civic/7028395914.html
+12/15/2019, 03:13:54 Note: attribute only had one index at https://prescott.craigslist.org/cto/d/tempe-97-ek-honda-civic-hatchback/7036949187.html
+12/15/2019, 03:13:54 Note: attribute only had one index at https://littlerock.craigslist.org/cto/d/conway-1999-honda-civic-ek-hatch/7038348596.html
+12/15/2019, 03:13:54 Note: attribute only had one index at https://littlerock.craigslist.org/cto/d/conway-1999-honda-civic-ek-hatch/7038348596.html
+12/15/2019, 03:13:54 Note: attribute only had one index at https://littlerock.craigslist.org/cto/d/little-rock-2000-honda-civic/7034782205.html
+12/15/2019, 03:13:55 CRASH: https://fresno.craigslist.org/cto/d/fresno-2006-honda-civicbad-motor/7036718153.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 03:13:56 Note: attribute only had one index at https://fresno.craigslist.org/cto/d/clovis-honda-civic-hybrid/7032845649.html
+12/15/2019, 03:13:56 ERROR: could not read cylinders at https://goldcountry.craigslist.org/cto/d/standard-1994-honda-civic/7035643195.html
+12/15/2019, 03:13:57 Note: attribute only had one index at https://humboldt.craigslist.org/cto/d/whitethorn-honda-civic/7031869132.html
+12/15/2019, 03:13:57 Note: attribute only had one index at https://inlandempire.craigslist.org/cto/d/upland-honda-civic-17-liter-02/7021330361.html
+12/15/2019, 03:13:58 Note: attribute only had one index at https://losangeles.craigslist.org/lac/cto/d/corona-2010-honda-civic-gx-24k-miles/7037836174.html
+12/15/2019, 03:13:59 Note: attribute only had one index at https://losangeles.craigslist.org/sfv/cto/d/van-nuys-2018-honda-civic-type-only-8k/7036779156.html
+12/15/2019, 03:13:59 Note: attribute only had one index at https://losangeles.craigslist.org/sfv/cto/d/van-nuys-2018-honda-civic-type-only-8k/7036779156.html
+12/15/2019, 03:13:59 Note: attribute only had one index at https://losangeles.craigslist.org/sgv/cto/d/city-of-industry-2008-honda-civic-ex-on/7036554452.html
+12/15/2019, 03:14:00 Note: attribute only had one index at https://losangeles.craigslist.org/sgv/cto/d/whittier-honda-civic-2009-clean-title/7036087198.html
+12/15/2019, 03:14:00 Note: attribute only had one index at https://modesto.craigslist.org/cto/d/modesto-honda-civic-low-miles33mpg/7038244034.html
+12/15/2019, 03:14:00 Note: attribute only had one index at https://modesto.craigslist.org/cto/d/modesto-honda-civic-low-miles33mpg/7038244034.html
+12/15/2019, 03:14:00 Note: attribute only had one index at https://modesto.craigslist.org/cto/d/modesto-honda-civic-low-miles33mpg/7035474627.html
+12/15/2019, 03:14:00 Note: attribute only had one index at https://modesto.craigslist.org/cto/d/modesto-honda-civic-low-miles33mpg/7035474627.html
+12/15/2019, 03:14:01 Note: attribute only had one index at https://orangecounty.craigslist.org/cto/d/san-clemente-honda-civic/7034732534.html
+12/15/2019, 03:14:01 Note: attribute only had one index at https://orangecounty.craigslist.org/cto/d/palm-springs-1992-eg8-civic-turbo/7033193390.html
+12/15/2019, 03:14:01 Note: attribute only had one index at https://orangecounty.craigslist.org/cto/d/la-jolla-1992-eg8-civic-turbo/7033192973.html
+12/15/2019, 03:14:01 Note: attribute only had one index at https://orangecounty.craigslist.org/cto/d/cabazon-1992-eg8-civic-turbo/7033192649.html
+12/15/2019, 03:14:01 Note: attribute only had one index at https://orangecounty.craigslist.org/cto/d/maywood-1992-eg8-civic-turbo/7033191849.html
+12/15/2019, 03:14:02 Note: attribute only had one index at https://orangecounty.craigslist.org/cto/d/irvine-2007-honda-civic/7029154849.html
+12/15/2019, 03:14:02 Note: attribute only had one index at https://orangecounty.craigslist.org/cto/d/newport-coast-1992-eg8-civic-turbo/7028290753.html
+12/15/2019, 03:14:02 Note: attribute only had one index at https://orangecounty.craigslist.org/cto/d/newport-coast-track-car-1992-eg8-civic/7025368526.html
+12/15/2019, 03:14:02 Note: attribute only had one index at https://orangecounty.craigslist.org/cto/d/corona-honda-civic-lx/7023971062.html
+12/15/2019, 03:14:02 Note: attribute only had one index at https://orangecounty.craigslist.org/cto/d/los-angeles-track-car-1992-eg8-civic/7022913119.html
+12/15/2019, 03:14:03 CRASH: https://redding.craigslist.org/cto/d/2016-honda-civic-lx/7034062010.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 03:14:04 CRASH: https://redding.craigslist.org/cto/d/2016-honda-civic-lx/7024204432.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 03:14:05 Note: attribute only had one index at https://sacramento.craigslist.org/cto/d/sacramento-honda-civic-40mpg-power/7037376332.html
+12/15/2019, 03:14:05 Note: attribute only had one index at https://sacramento.craigslist.org/cto/d/sacramento-honda-civic-40mpg-power/7022853254.html
+12/15/2019, 03:14:05 Note: attribute only had one index at https://sandiego.craigslist.org/csd/cto/d/chula-vista-used-2015-civic-honda-lx-in/7036872151.html
+12/15/2019, 03:14:06 Note: attribute only had one index at https://sandiego.craigslist.org/csd/cto/d/san-diego-2015-honda-civic-lx-coupe/7031208046.html
+12/15/2019, 03:14:06 CRASH: https://sandiego.craigslist.org/nsd/cto/d/2013-honda-civic-lx-coupe-2d-5-vel/7030780508.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 03:14:06 CRASH: https://sfbay.craigslist.org/sby/cto/d/2003-honda-civic-smogged/7038447979.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 03:14:07 Note: attribute only had one index at https://sfbay.craigslist.org/nby/cto/d/guerneville-1998-honda-civic-mechanics/7037359512.html
+12/15/2019, 03:14:08 Note: attribute only had one index at https://sfbay.craigslist.org/eby/cto/d/hayward-2018-honda-civic-sport/7034975490.html
+12/15/2019, 03:14:08 Note: attribute only had one index at https://slo.craigslist.org/cto/d/atascadero-2006-honda-civic-gx-low-miles/7022897138.html
+12/15/2019, 03:14:08 CRASH: https://slo.craigslist.org/cto/d/los-osos-2004-civic-hybrid-needs/7020762635.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 03:14:08 Note: attribute only had one index at https://santabarbara.craigslist.org/cto/d/santa-barbara-honda-civic-lx-2002-needs/7031525972.html
+12/15/2019, 03:14:08 Note: attribute only had one index at https://santabarbara.craigslist.org/cto/d/santa-barbara-honda-civic-lx-2002-needs/7031525972.html
+12/15/2019, 03:14:09 CRASH: https://stockton.craigslist.org/cto/d/stockton-2013-honda-civic-ex-sedan-4d/7033441235.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 03:14:10 Note: attribute only had one index at https://boulder.craigslist.org/cto/d/hygiene-2006-honda-civic-lx/7026099949.html
+12/15/2019, 03:14:11 CRASH: https://cosprings.craigslist.org/cto/d/colorado-springs-for-sale/7021442642.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 03:14:11 Note: attribute only had one index at https://denver.craigslist.org/cto/d/dupont-05-honda-civic/7038609637.html
+12/15/2019, 03:14:12 CRASH: https://hartford.craigslist.org/cto/d/2012-honda-civic-k-miles-clean-carfax/7035717643.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 03:14:12 CRASH: https://hartford.craigslist.org/cto/d/2012-honda-civic-k-miles-clean-carfax/7031525324.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 03:14:13 CRASH: https://hartford.craigslist.org/cto/d/2012-honda-civic-k-miles-clean-carfax/7028110943.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 03:14:14 CRASH: https://hartford.craigslist.org/cto/d/2012-honda-civic-k-miles-clean-carfax/7025669349.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 03:14:14 Note: attribute only had one index at https://newhaven.craigslist.org/cto/d/new-haven-2005-honda-civic-si/7030682576.html
+12/15/2019, 03:14:15 CRASH: https://washingtondc.craigslist.org/mld/cto/d/clarksville-2006-honda-civic/7034951292.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 03:14:15 Note: attribute only had one index at https://washingtondc.craigslist.org/mld/cto/d/montgomery-village-2004-honda-civic/7031112319.html
+12/15/2019, 03:14:16 ERROR: could not read cylinders at https://washingtondc.craigslist.org/mld/cto/d/montgomery-village-2004-honda-civic/7029989562.html
+12/15/2019, 03:14:17 Note: attribute only had one index at https://washingtondc.craigslist.org/mld/cto/d/silver-spring-2010-honda-civic-lx-with/7028219861.html
+12/15/2019, 03:14:17 Note: attribute only had one index at https://daytona.craigslist.org/cto/d/palm-coast-2016-honda-civic-touring/7038059443.html
+12/15/2019, 03:14:18 CRASH: https://fortmyers.craigslist.org/col/cto/d/2014-honda-civic/7035054986.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 03:14:18 Note: attribute only had one index at https://ocala.craigslist.org/cto/d/hernando-honda-civic/7036951368.html
+12/15/2019, 03:14:19 Note: attribute only had one index at https://orlando.craigslist.org/cto/d/orlando-honda-civic/7024463978.html
+12/15/2019, 03:14:20 CRASH: https://miami.craigslist.org/brw/cto/d/2013-honda-civic-lx/7038596942.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 03:14:20 Note: attribute only had one index at https://miami.craigslist.org/mdc/cto/d/miami-2010-honda-civic/7037031276.html
+12/15/2019, 03:14:21 CRASH: https://miami.craigslist.org/brw/cto/d/2009-honda-civic-si-sedan-fa5-1-owner/7033480107.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 03:14:22 Note: attribute only had one index at https://miami.craigslist.org/mdc/cto/d/miami-2010-honda-civic/7032602378.html
+12/15/2019, 03:14:23 Note: attribute only had one index at https://miami.craigslist.org/brw/cto/d/hollywood-2012-honda-civic-for-sale/7030465326.html
+12/15/2019, 03:14:23 CRASH: https://spacecoast.craigslist.org/cto/d/melbourne-bogo-honda-civic/7031405279.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 03:14:24 Note: attribute only had one index at https://spacecoast.craigslist.org/cto/d/merritt-island-2002-honda-civic/7022750409.html
+12/15/2019, 03:14:24 Note: attribute only had one index at https://spacecoast.craigslist.org/cto/d/merritt-island-2002-honda-civic/7022750409.html
+12/15/2019, 03:14:25 Note: attribute only had one index at https://tampa.craigslist.org/pnl/cto/d/saint-petersburg-2012-honda-civic/7038269031.html
+12/15/2019, 03:14:25 Note: attribute only had one index at https://tampa.craigslist.org/pnl/cto/d/saint-petersburg-2012-honda-civic/7028906907.html
+12/15/2019, 03:14:26 ERROR: could not read cylinders at https://athensga.craigslist.org/cto/d/athens-2007-honda-civic-si/7035516710.html
+12/15/2019, 03:14:26 Note: attribute only had one index at https://atlanta.craigslist.org/nat/cto/d/acworth-2012-honda-civic/7028560336.html
+12/15/2019, 03:14:27 Note: attribute only had one index at https://augusta.craigslist.org/cto/d/gracewood-2008-honda-civic-lx-sedan-in/7021361093.html
+12/15/2019, 03:14:28 CRASH: https://honolulu.craigslist.org/big/cto/d/kamuela-honda-civic/7038194707.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 03:14:29 Note: attribute only had one index at https://chambana.craigslist.org/cto/d/savoy-2015-honda-civic/7036504564.html
+12/15/2019, 03:14:29 Note: attribute only had one index at https://chambana.craigslist.org/cto/d/savoy-2015-honda-civic/7022494325.html
+12/15/2019, 03:14:29 Note: attribute only had one index at https://ksu.craigslist.org/cto/d/fort-riley-2005-honda-civic-lx-sedan/7022183069.html
+12/15/2019, 03:14:29 Note: attribute only had one index at https://ksu.craigslist.org/cto/d/fort-riley-2005-honda-civic-lx-sedan/7022183069.html
+12/15/2019, 03:14:30 Note: attribute only had one index at https://neworleans.craigslist.org/cto/d/new-orleans-2011-honda-civic/7027921771.html
+12/15/2019, 03:14:31 Note: attribute only had one index at https://neworleans.craigslist.org/cto/d/new-orleans-2011-honda-civic/7022897165.html
+12/15/2019, 03:14:32 Note: attribute only had one index at https://maine.craigslist.org/cto/d/orono-2008-honda-civic-lx-clean-title/7035105912.html
+12/15/2019, 03:14:32 Note: attribute only had one index at https://maine.craigslist.org/cto/d/surry-honda-civic-lx/7029281830.html
+12/15/2019, 03:14:32 Note: attribute only had one index at https://baltimore.craigslist.org/cto/d/gwynn-oak-2012-honda-civic-ex-sedan/7029452855.html
+12/15/2019, 03:14:33 Note: attribute only had one index at https://boston.craigslist.org/gbs/cto/d/marlborough-2006-honda-civic-lx-sedan-4d/7033373861.html
+12/15/2019, 03:14:34 Note: attribute only had one index at https://boston.craigslist.org/gbs/cto/d/chelsea-2014-honda-civic-excellent/7022840382.html
+12/15/2019, 03:14:35 CRASH: https://boston.craigslist.org/bmw/cto/d/sherborn-2009-honda-civic-ex/7022161980.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 03:14:35 Note: attribute only had one index at https://boston.craigslist.org/nos/cto/d/melrose-2008-honda-civic/7019755318.html
+12/15/2019, 03:14:36 CRASH: https://boston.craigslist.org/gbs/cto/d/cambridge-2006-honda-civic-hybrid-140k/7004747565.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 03:14:37 Note: attribute only had one index at https://annarbor.craigslist.org/cto/d/ann-arbor-2017-honda-civic-sport-lx/7035597703.html
+12/15/2019, 03:14:37 Note: attribute only had one index at https://detroit.craigslist.org/okl/cto/d/oak-park-2003-honda-civic-ex/7036187505.html
+12/15/2019, 03:14:38 CRASH: https://detroit.craigslist.org/okl/cto/d/west-bloomfield-2008-honda-civic/7034266718.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 03:14:39 CRASH: https://swmi.craigslist.org/cto/d/bridgman-1998-honda-civic-hx/7035129756.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 03:14:40 Note: attribute only had one index at https://kansascity.craigslist.org/cto/d/olathe-2005-honda-civic-ex-edition/7038311331.html
+12/15/2019, 03:14:40 Note: attribute only had one index at https://kansascity.craigslist.org/cto/d/lees-summit-2005-honda-civic/7032710654.html
+12/15/2019, 03:14:41 Note: attribute only had one index at https://kansascity.craigslist.org/cto/d/independence-2011-honda-civic/7032629585.html
+12/15/2019, 03:14:42 Note: attribute only had one index at https://kansascity.craigslist.org/cto/d/kansas-city-2008-honda-civic-si-5000/7032052035.html
+12/15/2019, 03:14:42 Note: attribute only had one index at https://kansascity.craigslist.org/cto/d/independence-2011-honda-civic/7025625179.html
+12/15/2019, 03:14:43 Note: attribute only had one index at https://kansascity.craigslist.org/cto/d/kansas-city-great-mileage-car/7020199557.html
+12/15/2019, 03:14:43 ERROR: could not read cylinders at https://kalispell.craigslist.org/cto/d/kalispell-honda-civic/7022216308.html
+12/15/2019, 03:14:44 Note: attribute only had one index at https://lasvegas.craigslist.org/cto/d/las-vegas-honda-civic-hybrid-2005/7033837496.html
+12/15/2019, 03:14:45 Note: attribute only had one index at https://reno.craigslist.org/cto/d/reno-2001-honda-civic/7026841928.html
+12/15/2019, 03:14:45 Note: attribute only had one index at https://cnj.craigslist.org/cto/d/jackson-2008-honda-civic-hydrid/7031940122.html
+12/15/2019, 03:14:46 CRASH: https://cnj.craigslist.org/cto/d/2005-honda-civic-hatchback-si/7028631579.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 03:14:47 Note: attribute only had one index at https://cnj.craigslist.org/cto/d/pennington-2008-honda-civic-si-sedan/7027867072.html
+12/15/2019, 03:14:48 Note: attribute only had one index at https://newjersey.craigslist.org/cto/d/bloomfield-2001-honda-civic-low-mileage/7029426403.html
+12/15/2019, 03:14:48 Note: attribute only had one index at https://newjersey.craigslist.org/cto/d/bayonne-2008-honda-civic-lx/7025689786.html
+12/15/2019, 03:14:49 CRASH: https://hudsonvalley.craigslist.org/cto/d/2008-honda-civic-ex/7037918730.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 03:14:49 Note: attribute only had one index at https://longisland.craigslist.org/cto/d/bayport-2005-honda-civic-si-black-on/7037349153.html
+12/15/2019, 03:14:50 Note: attribute only had one index at https://longisland.craigslist.org/cto/d/valley-stream-2003-honda-civic/7025746236.html
+12/15/2019, 03:14:51 Note: attribute only had one index at https://longisland.craigslist.org/cto/d/bayport-2005-honda-civic-si-black-on/7025265632.html
+12/15/2019, 03:14:51 Note: attribute only had one index at https://longisland.craigslist.org/cto/d/central-islip-2007-honda-civic/7020106701.html
+12/15/2019, 03:14:52 Note: attribute only had one index at https://newyork.craigslist.org/wch/cto/d/white-plains-2008-honda-civic-coupe/7031320066.html
+12/15/2019, 03:14:53 Note: attribute only had one index at https://newyork.craigslist.org/que/cto/d/valley-stream-honda-civic-si/7029548966.html
+12/15/2019, 03:14:53 CRASH: https://newyork.craigslist.org/que/cto/d/2013-honda-civic-ex-sdn-sunroofback-up/7025324960.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 03:14:54 Note: attribute only had one index at https://plattsburgh.craigslist.org/cto/d/saranac-car-for-sale/7020926290.html
+12/15/2019, 03:14:54 Note: attribute only had one index at https://rochester.craigslist.org/cto/d/penfield-2016-honda-civic/7035678473.html
+12/15/2019, 03:14:55 Note: attribute only had one index at https://charlotte.craigslist.org/cto/d/charlotte-2004-honda-civic-lx/7038681475.html
+12/15/2019, 03:14:55 Note: attribute only had one index at https://charlotte.craigslist.org/cto/d/gold-hill-honda-civic/7025257019.html
+12/15/2019, 03:14:56 Note: attribute only had one index at https://raleigh.craigslist.org/cto/d/clayton-2003-honda-civic/7035043502.html
+12/15/2019, 03:14:56 Note: attribute only had one index at https://columbus.craigslist.org/cto/d/columbus-2008-honda-civic-ex-4-doors/7029233056.html
+12/15/2019, 03:14:57 Note: attribute only had one index at https://columbus.craigslist.org/cto/d/columbus-2018-honda-civic/7028460771.html
+12/15/2019, 03:14:58 Note: attribute only had one index at https://columbus.craigslist.org/cto/d/grove-city-2014-honda-civic-si/7022701562.html
+12/15/2019, 03:14:58 Note: attribute only had one index at https://dayton.craigslist.org/cto/d/springfield-1995-honda-del-sol/7026593997.html
+12/15/2019, 03:14:59 Note: attribute only had one index at https://medford.craigslist.org/cto/d/white-city-2002-honda-civic-ex-low-miles/7035952550.html
+12/15/2019, 03:15:00 Note: attribute only had one index at https://medford.craigslist.org/cto/d/white-city-2002-honda-civic-ex-low-miles/7031623531.html
+12/15/2019, 03:15:01 Note: attribute only had one index at https://medford.craigslist.org/cto/d/white-city-2002-honda-civic-ex-low-miles/7023203029.html
+12/15/2019, 03:15:01 Note: attribute only had one index at https://portland.craigslist.org/mlt/cto/d/kennewick-2004-honda-civic-si-ep3-turbo/7037566388.html
+12/15/2019, 03:15:02 Note: attribute only had one index at https://portland.craigslist.org/clk/cto/d/vancouver-2013-lx-honda-civic-sedan/7035909204.html
+12/15/2019, 03:15:03 Note: attribute only had one index at https://portland.craigslist.org/wsc/cto/d/portland-2012-honda-civic-ex/7031840476.html
+12/15/2019, 03:15:03 Note: attribute only had one index at https://portland.craigslist.org/mlt/cto/d/portland-honda-civic-lx-2000/7030529785.html
+12/15/2019, 03:15:04 CRASH: https://portland.craigslist.org/wsc/cto/d/honda-civic/7029780221.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 03:15:05 Note: attribute only had one index at https://portland.craigslist.org/wsc/cto/d/forest-grove-2005-honda-civic-hybrid/7029121680.html
+12/15/2019, 03:15:05 Note: attribute only had one index at https://allentown.craigslist.org/cto/d/allentown-honda-civic/7037582911.html
+12/15/2019, 03:15:06 Note: attribute only had one index at https://philadelphia.craigslist.org/cto/d/philadelphia-2012-honda-civic-lx/7038376769.html
+12/15/2019, 03:15:06 Note: attribute only had one index at https://columbia.craigslist.org/cto/d/west-columbia-2004-honda-civic-lx2-doors/7033464828.html
+12/15/2019, 03:15:07 Note: attribute only had one index at https://memphis.craigslist.org/cto/d/memphis-2007-honda-civic/7023293834.html
+12/15/2019, 03:15:08 Note: attribute only had one index at https://nashville.craigslist.org/cto/d/nashville-honda-civic-sale/7022091701.html
+12/15/2019, 03:15:08 Note: attribute only had one index at https://nashville.craigslist.org/cto/d/nashville-honda-civic-sale/7022091701.html
+12/15/2019, 03:15:08 Note: attribute only had one index at https://abilene.craigslist.org/cto/d/abilene-2017-honda-civic-si/7028242430.html
+12/15/2019, 03:15:08 Note: attribute only had one index at https://abilene.craigslist.org/cto/d/abilene-2017-honda-civic-touring-sedan/7028241912.html
+12/15/2019, 03:15:08 Note: attribute only had one index at https://abilene.craigslist.org/cto/d/abilene-2018-honda-civic-ex-sedan/7028241366.html
+12/15/2019, 03:15:09 Note: attribute only had one index at https://austin.craigslist.org/cto/d/del-valle-2015-honda-civic-lx-silver-at/7029106102.html
+12/15/2019, 03:15:09 Note: attribute only had one index at https://austin.craigslist.org/cto/d/del-valle-2015-honda-civic-lx-silver-at/7029106102.html
+12/15/2019, 03:15:09 Note: attribute only had one index at https://austin.craigslist.org/cto/d/del-valle-2016-honda-civic-lx-black-at/7027744387.html
+12/15/2019, 03:15:09 Note: attribute only had one index at https://austin.craigslist.org/cto/d/del-valle-2016-honda-civic-lx-black-at/7027744387.html
+12/15/2019, 03:15:09 Note: attribute only had one index at https://austin.craigslist.org/cto/d/del-valle-2015-honda-civic-lx-black-at/7021178963.html
+12/15/2019, 03:15:09 Note: attribute only had one index at https://austin.craigslist.org/cto/d/del-valle-2015-honda-civic-lx-black-at/7021178963.html
+12/15/2019, 03:15:10 Note: attribute only had one index at https://dallas.craigslist.org/dal/cto/d/haltom-city-2003-honda-civic/7036547738.html
+12/15/2019, 03:15:10 Note: attribute only had one index at https://dallas.craigslist.org/sdf/cto/d/lillian-1989-honda-civic-wagovan/7032087344.html
+12/15/2019, 03:15:11 Note: attribute only had one index at https://dallas.craigslist.org/ftw/cto/d/weatherford-honda-civic-with-new-engine/7024985141.html
+12/15/2019, 03:15:12 Note: attribute only had one index at https://dallas.craigslist.org/mdf/cto/d/arlington-2015-honda-civic-coupe-ex/7024584779.html
+12/15/2019, 03:15:12 Note: attribute only had one index at https://dallas.craigslist.org/dal/cto/d/denton-2006-honda-civic-ex-coupe/7023321307.html
+12/15/2019, 03:15:13 Note: attribute only had one index at https://elpaso.craigslist.org/cto/d/fort-bliss-2002-honda-civic-lx-clean/7038338783.html
+12/15/2019, 03:15:13 Note: attribute only had one index at https://galveston.craigslist.org/cto/d/galveston-awesome-honda-civic-2017-base/7032656579.html
+12/15/2019, 03:15:14 CRASH: https://houston.craigslist.org/cto/d/2010-honda-civic/7036393390.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 03:15:14 Note: attribute only had one index at https://houston.craigslist.org/cto/d/katy-vendo-honda-civic/7021851077.html
+12/15/2019, 03:15:14 CRASH: https://waco.craigslist.org/cto/d/hillsboro-2015-honda-civic-coupe-lx/7031186620.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 03:15:15 Note: attribute only had one index at https://provo.craigslist.org/cto/d/american-fork-2007-honda-civic-hybrid/7033468205.html
+12/15/2019, 03:15:16 CRASH: https://blacksburg.craigslist.org/cto/d/blacksburg-2013-honda-civic-lx-4d-sold/7030971547.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 03:15:17 Note: attribute only had one index at https://kpr.craigslist.org/cto/d/kennewick-2008-honda-civic-si-fa5/7029922784.html
+12/15/2019, 03:15:17 Note: attribute only had one index at https://kpr.craigslist.org/cto/d/richland-1997-honda-civic-lx-manual/7028757368.html
+12/15/2019, 03:15:18 Note: attribute only had one index at https://seattle.craigslist.org/see/cto/d/seattle-2006-honda-civic-for-sale/7038073302.html
+12/15/2019, 03:15:19 Note: attribute only had one index at https://seattle.craigslist.org/sno/cto/d/everett-2015-honda-civic-exl-coupe-24k/7036018157.html
+12/15/2019, 03:15:20 Note: attribute only had one index at https://seattle.craigslist.org/see/cto/d/seattle-2006-honda-civic/7036011941.html
+12/15/2019, 03:15:20 Note: attribute only had one index at https://seattle.craigslist.org/see/cto/d/seattle-2006-honda-civic/7036011941.html
+12/15/2019, 03:15:20 Note: attribute only had one index at https://seattle.craigslist.org/see/cto/d/lynnwood-2004-honda-civic-lxlow-miles/7034454997.html
+12/15/2019, 03:15:21 Note: attribute only had one index at https://seattle.craigslist.org/sno/cto/d/lynnwood-2002-hondo-civic-ex-2dr-coupe/7033718147.html
+12/15/2019, 03:15:22 Note: attribute only had one index at https://seattle.craigslist.org/skc/cto/d/auburn-2002honda-civic/7033527486.html
+12/15/2019, 03:15:23 Note: attribute only had one index at https://seattle.craigslist.org/est/cto/d/kirkland-2000-honda-civic/7028672837.html
+12/15/2019, 03:15:23 Note: attribute only had one index at https://seattle.craigslist.org/tac/cto/d/lakewood-honda-civic-1995-coupe/7028288365.html
+12/15/2019, 03:15:24 CRASH: https://spokane.craigslist.org/cto/d/2008-honda-civic-ex-73k-miles/7024011757.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 03:15:25 Note: attribute only had one index at https://milwaukee.craigslist.org/cto/d/milwaukee-2004-honda-civic-hybrid/7037346228.html
+12/15/2019, 03:15:25 Note: attribute only had one index at https://milwaukee.craigslist.org/cto/d/milwaukee-2005-honda-civic-ex/7032050245.html
+12/15/2019, 03:15:26 CRASH: https://micronesia.craigslist.org/cto/d/honda-civic/7025518670.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 03:15:26 CRASH: https://micronesia.craigslist.org/cto/d/2014-honda-civic-si-sedan/7031865785.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 03:15:26 CRASH: https://micronesia.craigslist.org/cto/d/2003-honda-civic/7027891893.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 03:15:26 CRASH: https://micronesia.craigslist.org/cto/d/08-honda-civic-lx/7019150113.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 03:15:26 CRASH: https://micronesia.craigslist.org/cto/d/2002-honda-civic-ep3/7025530340.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 03:15:27 CRASH: https://micronesia.craigslist.org/cto/d/2003-honda-civic/6999066422.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 03:15:27 CRASH: https://micronesia.craigslist.org/cto/d/2003-honda-civic-lx-4dr-sedan/7013807406.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 03:15:27 CRASH: https://puertorico.craigslist.org/cto/d/carro/7032742978.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 03:15:28 CRASH: https://puertorico.craigslist.org/cto/d/venta/7027897973.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 03:15:29 CRASH: https://virgin.craigslist.org/cto/d/2003-honda-civic-sedan-for-sale/7017863603.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 03:15:30 CRASH: https://virgin.craigslist.org/cto/d/2003-honda-civic-lx-4dr-sedan/7014562291.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:40:06 ERROR: could not read cylinders at https://mohave.craigslist.org/cto/d/hackberry-1996-honda-hatch-back/7020443308.html
+12/15/2019, 12:40:06 CRASH: https://phoenix.craigslist.org/cph/cto/d/phoenix-1997-honda-civic-dx/7038328482.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 12:40:06 Note: attribute only had one index at https://phoenix.craigslist.org/cph/cto/d/scottsdale-honda-civic-type/7038305379.html
+12/15/2019, 12:40:07 Note: attribute only had one index at https://phoenix.craigslist.org/wvl/cto/d/phoenix-2018-honda-civic-lx/7037549626.html
+12/15/2019, 12:40:07 ERROR: could not read cylinders at https://phoenix.craigslist.org/wvl/cto/d/goodyear-98-honda-civic-c/7029216782.html
+12/15/2019, 12:40:07 Note: attribute only had one index at https://phoenix.craigslist.org/evl/cto/d/chandler-2014-honda-civic/7028395914.html
+12/15/2019, 12:40:08 Note: attribute only had one index at https://prescott.craigslist.org/cto/d/tempe-97-ek-honda-civic-hatchback/7036949187.html
+12/15/2019, 12:40:08 Note: attribute only had one index at https://littlerock.craigslist.org/cto/d/conway-1999-honda-civic-ek-hatch/7038348596.html
+12/15/2019, 12:40:08 Note: attribute only had one index at https://littlerock.craigslist.org/cto/d/conway-1999-honda-civic-ek-hatch/7038348596.html
+12/15/2019, 12:40:09 Note: attribute only had one index at https://littlerock.craigslist.org/cto/d/little-rock-2000-honda-civic/7034782205.html
+12/15/2019, 12:40:10 ERROR: https://fresno.craigslist.org/cto/d/fresno-2006-honda-civicbad-motor/7036718153.html has expired
+12/15/2019, 12:40:10 Note: attribute only had one index at https://fresno.craigslist.org/cto/d/clovis-honda-civic-hybrid/7032845649.html
+12/15/2019, 12:40:11 ERROR: could not read cylinders at https://goldcountry.craigslist.org/cto/d/standard-1994-honda-civic/7035643195.html
+12/15/2019, 12:40:11 Note: attribute only had one index at https://humboldt.craigslist.org/cto/d/whitethorn-honda-civic/7031869132.html
+12/15/2019, 12:40:11 Note: attribute only had one index at https://inlandempire.craigslist.org/cto/d/upland-honda-civic-17-liter-02/7021330361.html
+12/15/2019, 12:40:12 Note: attribute only had one index at https://losangeles.craigslist.org/lac/cto/d/corona-2010-honda-civic-gx-24k-miles/7037836174.html
+12/15/2019, 12:40:13 Note: attribute only had one index at https://losangeles.craigslist.org/sfv/cto/d/van-nuys-2018-honda-civic-type-only-8k/7036779156.html
+12/15/2019, 12:40:13 Note: attribute only had one index at https://losangeles.craigslist.org/sfv/cto/d/van-nuys-2018-honda-civic-type-only-8k/7036779156.html
+12/15/2019, 12:40:14 Note: attribute only had one index at https://losangeles.craigslist.org/sgv/cto/d/city-of-industry-2008-honda-civic-ex-on/7036554452.html
+12/15/2019, 12:40:14 Note: attribute only had one index at https://losangeles.craigslist.org/sgv/cto/d/whittier-honda-civic-2009-clean-title/7036087198.html
+12/15/2019, 12:40:15 Note: attribute only had one index at https://modesto.craigslist.org/cto/d/modesto-honda-civic-low-miles33mpg/7038244034.html
+12/15/2019, 12:40:15 Note: attribute only had one index at https://modesto.craigslist.org/cto/d/modesto-honda-civic-low-miles33mpg/7038244034.html
+12/15/2019, 12:40:15 Note: attribute only had one index at https://modesto.craigslist.org/cto/d/modesto-honda-civic-low-miles33mpg/7035474627.html
+12/15/2019, 12:40:15 Note: attribute only had one index at https://modesto.craigslist.org/cto/d/modesto-honda-civic-low-miles33mpg/7035474627.html
+12/15/2019, 12:40:15 Note: attribute only had one index at https://orangecounty.craigslist.org/cto/d/san-clemente-honda-civic/7034732534.html
+12/15/2019, 12:40:16 Note: attribute only had one index at https://orangecounty.craigslist.org/cto/d/palm-springs-1992-eg8-civic-turbo/7033193390.html
+12/15/2019, 12:40:17 Note: attribute only had one index at https://orangecounty.craigslist.org/cto/d/la-jolla-1992-eg8-civic-turbo/7033192973.html
+12/15/2019, 12:40:18 Note: attribute only had one index at https://orangecounty.craigslist.org/cto/d/cabazon-1992-eg8-civic-turbo/7033192649.html
+12/15/2019, 12:40:18 Note: attribute only had one index at https://orangecounty.craigslist.org/cto/d/maywood-1992-eg8-civic-turbo/7033191849.html
+12/15/2019, 12:40:19 Note: attribute only had one index at https://orangecounty.craigslist.org/cto/d/irvine-2007-honda-civic/7029154849.html
+12/15/2019, 12:40:20 Note: attribute only had one index at https://orangecounty.craigslist.org/cto/d/newport-coast-1992-eg8-civic-turbo/7028290753.html
+12/15/2019, 12:40:21 Note: attribute only had one index at https://orangecounty.craigslist.org/cto/d/newport-coast-track-car-1992-eg8-civic/7025368526.html
+12/15/2019, 12:40:21 Note: attribute only had one index at https://orangecounty.craigslist.org/cto/d/corona-honda-civic-lx/7023971062.html
+12/15/2019, 12:40:22 Note: attribute only had one index at https://orangecounty.craigslist.org/cto/d/los-angeles-track-car-1992-eg8-civic/7022913119.html
+12/15/2019, 12:40:23 CRASH: https://redding.craigslist.org/cto/d/2016-honda-civic-lx/7034062010.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:40:23 CRASH: https://redding.craigslist.org/cto/d/2016-honda-civic-lx/7024204432.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:40:24 Note: attribute only had one index at https://sacramento.craigslist.org/cto/d/sacramento-honda-civic-40mpg-power/7037376332.html
+12/15/2019, 12:40:24 Note: attribute only had one index at https://sacramento.craigslist.org/cto/d/sacramento-honda-civic-40mpg-power/7022853254.html
+12/15/2019, 12:40:24 Note: attribute only had one index at https://sandiego.craigslist.org/csd/cto/d/chula-vista-used-2015-civic-honda-lx-in/7036872151.html
+12/15/2019, 12:40:24 Note: attribute only had one index at https://sandiego.craigslist.org/csd/cto/d/san-diego-2015-honda-civic-lx-coupe/7031208046.html
+12/15/2019, 12:40:24 CRASH: https://sandiego.craigslist.org/nsd/cto/d/2013-honda-civic-lx-coupe-2d-5-vel/7030780508.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:40:25 CRASH: https://sfbay.craigslist.org/sby/cto/d/2003-honda-civic-smogged/7038447979.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:40:25 Note: attribute only had one index at https://sfbay.craigslist.org/nby/cto/d/guerneville-1998-honda-civic-mechanics/7037359512.html
+12/15/2019, 12:40:25 Note: attribute only had one index at https://sfbay.craigslist.org/eby/cto/d/hayward-2018-honda-civic-sport/7034975490.html
+12/15/2019, 12:40:25 Note: attribute only had one index at https://slo.craigslist.org/cto/d/atascadero-2006-honda-civic-gx-low-miles/7022897138.html
+12/15/2019, 12:40:25 CRASH: https://slo.craigslist.org/cto/d/los-osos-2004-civic-hybrid-needs/7020762635.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 12:40:25 Note: attribute only had one index at https://santabarbara.craigslist.org/cto/d/santa-barbara-honda-civic-lx-2002-needs/7031525972.html
+12/15/2019, 12:40:25 Note: attribute only had one index at https://santabarbara.craigslist.org/cto/d/santa-barbara-honda-civic-lx-2002-needs/7031525972.html
+12/15/2019, 12:40:26 ERROR: https://stockton.craigslist.org/cto/d/stockton-2013-honda-civic-ex-sedan-4d/7033441235.html has expired
+12/15/2019, 12:40:26 Note: attribute only had one index at https://boulder.craigslist.org/cto/d/hygiene-2006-honda-civic-lx/7026099949.html
+12/15/2019, 12:40:26 CRASH: https://cosprings.craigslist.org/cto/d/colorado-springs-for-sale/7021442642.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 12:40:26 CRASH: https://hartford.craigslist.org/cto/d/2012-honda-civic-k-miles-clean-carfax/7035717643.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:40:27 CRASH: https://hartford.craigslist.org/cto/d/2012-honda-civic-k-miles-clean-carfax/7031525324.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:40:27 CRASH: https://hartford.craigslist.org/cto/d/2012-honda-civic-k-miles-clean-carfax/7028110943.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:40:27 CRASH: https://hartford.craigslist.org/cto/d/2012-honda-civic-k-miles-clean-carfax/7025669349.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:40:28 Note: attribute only had one index at https://newhaven.craigslist.org/cto/d/new-haven-2005-honda-civic-si/7030682576.html
+12/15/2019, 12:40:28 CRASH: https://washingtondc.craigslist.org/mld/cto/d/clarksville-2006-honda-civic/7034951292.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 12:40:28 Note: attribute only had one index at https://washingtondc.craigslist.org/mld/cto/d/montgomery-village-2004-honda-civic/7031112319.html
+12/15/2019, 12:40:28 ERROR: could not read cylinders at https://washingtondc.craigslist.org/mld/cto/d/montgomery-village-2004-honda-civic/7029989562.html
+12/15/2019, 12:40:28 Note: attribute only had one index at https://washingtondc.craigslist.org/mld/cto/d/silver-spring-2010-honda-civic-lx-with/7028219861.html
+12/15/2019, 12:40:29 Note: attribute only had one index at https://daytona.craigslist.org/cto/d/palm-coast-2016-honda-civic-touring/7038059443.html
+12/15/2019, 12:40:29 CRASH: https://fortmyers.craigslist.org/col/cto/d/2014-honda-civic/7035054986.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:40:29 Note: attribute only had one index at https://ocala.craigslist.org/cto/d/hernando-honda-civic/7036951368.html
+12/15/2019, 12:40:29 Note: attribute only had one index at https://orlando.craigslist.org/cto/d/orlando-honda-civic/7024463978.html
+12/15/2019, 12:40:30 CRASH: https://miami.craigslist.org/brw/cto/d/2013-honda-civic-lx/7038596942.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:40:31 Note: attribute only had one index at https://miami.craigslist.org/mdc/cto/d/miami-2010-honda-civic/7037031276.html
+12/15/2019, 12:40:31 CRASH: https://miami.craigslist.org/brw/cto/d/2009-honda-civic-si-sedan-fa5-1-owner/7033480107.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:40:32 Note: attribute only had one index at https://miami.craigslist.org/mdc/cto/d/miami-2010-honda-civic/7032602378.html
+12/15/2019, 12:40:33 Note: attribute only had one index at https://miami.craigslist.org/brw/cto/d/hollywood-2012-honda-civic-for-sale/7030465326.html
+12/15/2019, 12:40:33 CRASH: https://spacecoast.craigslist.org/cto/d/melbourne-bogo-honda-civic/7031405279.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 12:40:33 Note: attribute only had one index at https://spacecoast.craigslist.org/cto/d/merritt-island-2002-honda-civic/7022750409.html
+12/15/2019, 12:40:33 Note: attribute only had one index at https://spacecoast.craigslist.org/cto/d/merritt-island-2002-honda-civic/7022750409.html
+12/15/2019, 12:40:33 Note: attribute only had one index at https://tampa.craigslist.org/pnl/cto/d/saint-petersburg-2012-honda-civic/7038269031.html
+12/15/2019, 12:40:33 Note: attribute only had one index at https://tampa.craigslist.org/pnl/cto/d/saint-petersburg-2012-honda-civic/7028906907.html
+12/15/2019, 12:40:34 ERROR: could not read cylinders at https://athensga.craigslist.org/cto/d/athens-2007-honda-civic-si/7035516710.html
+12/15/2019, 12:40:34 Note: attribute only had one index at https://atlanta.craigslist.org/nat/cto/d/acworth-2012-honda-civic/7028560336.html
+12/15/2019, 12:40:34 Note: attribute only had one index at https://augusta.craigslist.org/cto/d/gracewood-2008-honda-civic-lx-sedan-in/7021361093.html
+12/15/2019, 12:40:35 CRASH: https://honolulu.craigslist.org/big/cto/d/kamuela-honda-civic/7038194707.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 12:40:35 Note: attribute only had one index at https://chambana.craigslist.org/cto/d/savoy-2015-honda-civic/7036504564.html
+12/15/2019, 12:40:36 Note: attribute only had one index at https://chambana.craigslist.org/cto/d/savoy-2015-honda-civic/7022494325.html
+12/15/2019, 12:40:37 Note: attribute only had one index at https://ksu.craigslist.org/cto/d/fort-riley-2005-honda-civic-lx-sedan/7022183069.html
+12/15/2019, 12:40:37 Note: attribute only had one index at https://ksu.craigslist.org/cto/d/fort-riley-2005-honda-civic-lx-sedan/7022183069.html
+12/15/2019, 12:40:38 Note: attribute only had one index at https://neworleans.craigslist.org/cto/d/new-orleans-2011-honda-civic/7027921771.html
+12/15/2019, 12:40:38 Note: attribute only had one index at https://neworleans.craigslist.org/cto/d/new-orleans-2011-honda-civic/7022897165.html
+12/15/2019, 12:40:39 Note: attribute only had one index at https://maine.craigslist.org/cto/d/orono-2008-honda-civic-lx-clean-title/7035105912.html
+12/15/2019, 12:40:39 Note: attribute only had one index at https://maine.craigslist.org/cto/d/surry-honda-civic-lx/7029281830.html
+12/15/2019, 12:40:39 Note: attribute only had one index at https://baltimore.craigslist.org/cto/d/gwynn-oak-2012-honda-civic-ex-sedan/7029452855.html
+12/15/2019, 12:40:40 Note: attribute only had one index at https://boston.craigslist.org/gbs/cto/d/marlborough-2006-honda-civic-lx-sedan-4d/7033373861.html
+12/15/2019, 12:40:41 Note: attribute only had one index at https://boston.craigslist.org/gbs/cto/d/chelsea-2014-honda-civic-excellent/7022840382.html
+12/15/2019, 12:40:42 CRASH: https://boston.craigslist.org/bmw/cto/d/sherborn-2009-honda-civic-ex/7022161980.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 12:40:42 Note: attribute only had one index at https://boston.craigslist.org/nos/cto/d/melrose-2008-honda-civic/7019755318.html
+12/15/2019, 12:40:43 ERROR: https://boston.craigslist.org/gbs/cto/d/cambridge-2006-honda-civic-hybrid-140k/7004747565.html has expired
+12/15/2019, 12:40:43 Note: attribute only had one index at https://annarbor.craigslist.org/cto/d/ann-arbor-2017-honda-civic-sport-lx/7035597703.html
+12/15/2019, 12:40:44 Note: attribute only had one index at https://detroit.craigslist.org/okl/cto/d/oak-park-2003-honda-civic-ex/7036187505.html
+12/15/2019, 12:40:44 ERROR: https://detroit.craigslist.org/okl/cto/d/west-bloomfield-2008-honda-civic/7034266718.html has expired
+12/15/2019, 12:40:45 CRASH: https://swmi.craigslist.org/cto/d/bridgman-1998-honda-civic-hx/7035129756.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 12:40:45 Note: attribute only had one index at https://kansascity.craigslist.org/cto/d/olathe-2005-honda-civic-ex-edition/7038311331.html
+12/15/2019, 12:40:46 Note: attribute only had one index at https://kansascity.craigslist.org/cto/d/lees-summit-2005-honda-civic/7032710654.html
+12/15/2019, 12:40:47 Note: attribute only had one index at https://kansascity.craigslist.org/cto/d/independence-2011-honda-civic/7032629585.html
+12/15/2019, 12:40:48 Note: attribute only had one index at https://kansascity.craigslist.org/cto/d/kansas-city-2008-honda-civic-si-5000/7032052035.html
+12/15/2019, 12:40:48 Note: attribute only had one index at https://kansascity.craigslist.org/cto/d/independence-2011-honda-civic/7025625179.html
+12/15/2019, 12:40:49 Note: attribute only had one index at https://kansascity.craigslist.org/cto/d/kansas-city-great-mileage-car/7020199557.html
+12/15/2019, 12:40:50 ERROR: could not read cylinders at https://kalispell.craigslist.org/cto/d/kalispell-honda-civic/7022216308.html
+12/15/2019, 12:40:50 Note: attribute only had one index at https://lasvegas.craigslist.org/cto/d/las-vegas-honda-civic-hybrid-2005/7033837496.html
+12/15/2019, 12:40:51 Note: attribute only had one index at https://reno.craigslist.org/cto/d/reno-2001-honda-civic/7026841928.html
+12/15/2019, 12:40:51 Note: attribute only had one index at https://cnj.craigslist.org/cto/d/jackson-2008-honda-civic-hydrid/7031940122.html
+12/15/2019, 12:40:52 CRASH: https://cnj.craigslist.org/cto/d/2005-honda-civic-hatchback-si/7028631579.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:40:52 Note: attribute only had one index at https://cnj.craigslist.org/cto/d/pennington-2008-honda-civic-si-sedan/7027867072.html
+12/15/2019, 12:40:52 Note: attribute only had one index at https://newjersey.craigslist.org/cto/d/bloomfield-2001-honda-civic-low-mileage/7029426403.html
+12/15/2019, 12:40:52 Note: attribute only had one index at https://newjersey.craigslist.org/cto/d/bayonne-2008-honda-civic-lx/7025689786.html
+12/15/2019, 12:40:52 CRASH: https://hudsonvalley.craigslist.org/cto/d/2008-honda-civic-ex/7037918730.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:40:53 Note: attribute only had one index at https://longisland.craigslist.org/cto/d/bayport-2005-honda-civic-si-black-on/7037349153.html
+12/15/2019, 12:40:54 Note: attribute only had one index at https://longisland.craigslist.org/cto/d/valley-stream-2003-honda-civic/7025746236.html
+12/15/2019, 12:40:54 Note: attribute only had one index at https://longisland.craigslist.org/cto/d/bayport-2005-honda-civic-si-black-on/7025265632.html
+12/15/2019, 12:40:55 Note: attribute only had one index at https://longisland.craigslist.org/cto/d/central-islip-2007-honda-civic/7020106701.html
+12/15/2019, 12:40:55 Note: attribute only had one index at https://newyork.craigslist.org/wch/cto/d/white-plains-2008-honda-civic-coupe/7031320066.html
+12/15/2019, 12:40:55 Note: attribute only had one index at https://newyork.craigslist.org/que/cto/d/valley-stream-honda-civic-si/7029548966.html
+12/15/2019, 12:40:56 CRASH: https://newyork.craigslist.org/que/cto/d/2013-honda-civic-ex-sdn-sunroofback-up/7025324960.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:40:56 Note: attribute only had one index at https://plattsburgh.craigslist.org/cto/d/saranac-car-for-sale/7020926290.html
+12/15/2019, 12:40:57 Note: attribute only had one index at https://rochester.craigslist.org/cto/d/penfield-2016-honda-civic/7035678473.html
+12/15/2019, 12:40:57 Note: attribute only had one index at https://charlotte.craigslist.org/cto/d/charlotte-2004-honda-civic-lx/7038681475.html
+12/15/2019, 12:40:57 Note: attribute only had one index at https://charlotte.craigslist.org/cto/d/gold-hill-honda-civic/7025257019.html
+12/15/2019, 12:40:57 Note: attribute only had one index at https://raleigh.craigslist.org/cto/d/clayton-2003-honda-civic/7035043502.html
+12/15/2019, 12:40:57 Note: attribute only had one index at https://columbus.craigslist.org/cto/d/columbus-2008-honda-civic-ex-4-doors/7029233056.html
+12/15/2019, 12:40:58 Note: attribute only had one index at https://columbus.craigslist.org/cto/d/columbus-2018-honda-civic/7028460771.html
+12/15/2019, 12:40:58 Note: attribute only had one index at https://columbus.craigslist.org/cto/d/grove-city-2014-honda-civic-si/7022701562.html
+12/15/2019, 12:40:58 Note: attribute only had one index at https://dayton.craigslist.org/cto/d/springfield-1995-honda-del-sol/7026593997.html
+12/15/2019, 12:40:58 ERROR: https://medford.craigslist.org/cto/d/white-city-2002-honda-civic-ex-low-miles/7035952550.html has expired
+12/15/2019, 12:40:59 Note: attribute only had one index at https://medford.craigslist.org/cto/d/white-city-2002-honda-civic-ex-low-miles/7031623531.html
+12/15/2019, 12:41:00 Note: attribute only had one index at https://medford.craigslist.org/cto/d/white-city-2002-honda-civic-ex-low-miles/7023203029.html
+12/15/2019, 12:41:00 Note: attribute only had one index at https://portland.craigslist.org/mlt/cto/d/kennewick-2004-honda-civic-si-ep3-turbo/7037566388.html
+12/15/2019, 12:41:01 Note: attribute only had one index at https://portland.craigslist.org/clk/cto/d/vancouver-2013-lx-honda-civic-sedan/7035909204.html
+12/15/2019, 12:41:02 Note: attribute only had one index at https://portland.craigslist.org/wsc/cto/d/portland-2012-honda-civic-ex/7031840476.html
+12/15/2019, 12:41:03 Note: attribute only had one index at https://portland.craigslist.org/mlt/cto/d/portland-honda-civic-lx-2000/7030529785.html
+12/15/2019, 12:41:03 CRASH: https://portland.craigslist.org/wsc/cto/d/honda-civic/7029780221.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:41:04 Note: attribute only had one index at https://portland.craigslist.org/wsc/cto/d/forest-grove-2005-honda-civic-hybrid/7029121680.html
+12/15/2019, 12:41:04 Note: attribute only had one index at https://allentown.craigslist.org/cto/d/allentown-honda-civic/7037582911.html
+12/15/2019, 12:41:05 Note: attribute only had one index at https://philadelphia.craigslist.org/cto/d/philadelphia-2012-honda-civic-lx/7038376769.html
+12/15/2019, 12:41:05 Note: attribute only had one index at https://columbia.craigslist.org/cto/d/west-columbia-2004-honda-civic-lx2-doors/7033464828.html
+12/15/2019, 12:41:05 Note: attribute only had one index at https://memphis.craigslist.org/cto/d/memphis-2007-honda-civic/7023293834.html
+12/15/2019, 12:41:06 Note: attribute only had one index at https://nashville.craigslist.org/cto/d/nashville-honda-civic-sale/7022091701.html
+12/15/2019, 12:41:06 Note: attribute only had one index at https://nashville.craigslist.org/cto/d/nashville-honda-civic-sale/7022091701.html
+12/15/2019, 12:41:06 Note: attribute only had one index at https://abilene.craigslist.org/cto/d/abilene-2017-honda-civic-si/7028242430.html
+12/15/2019, 12:41:07 Note: attribute only had one index at https://abilene.craigslist.org/cto/d/abilene-2017-honda-civic-touring-sedan/7028241912.html
+12/15/2019, 12:41:08 Note: attribute only had one index at https://abilene.craigslist.org/cto/d/abilene-2018-honda-civic-ex-sedan/7028241366.html
+12/15/2019, 12:41:08 Note: attribute only had one index at https://austin.craigslist.org/cto/d/del-valle-2015-honda-civic-lx-silver-at/7029106102.html
+12/15/2019, 12:41:08 Note: attribute only had one index at https://austin.craigslist.org/cto/d/del-valle-2015-honda-civic-lx-silver-at/7029106102.html
+12/15/2019, 12:41:09 Note: attribute only had one index at https://austin.craigslist.org/cto/d/del-valle-2016-honda-civic-lx-black-at/7027744387.html
+12/15/2019, 12:41:09 Note: attribute only had one index at https://austin.craigslist.org/cto/d/del-valle-2016-honda-civic-lx-black-at/7027744387.html
+12/15/2019, 12:41:10 Note: attribute only had one index at https://austin.craigslist.org/cto/d/del-valle-2015-honda-civic-lx-black-at/7021178963.html
+12/15/2019, 12:41:10 Note: attribute only had one index at https://austin.craigslist.org/cto/d/del-valle-2015-honda-civic-lx-black-at/7021178963.html
+12/15/2019, 12:41:10 Note: attribute only had one index at https://dallas.craigslist.org/dal/cto/d/haltom-city-2003-honda-civic/7036547738.html
+12/15/2019, 12:41:10 Note: attribute only had one index at https://dallas.craigslist.org/sdf/cto/d/lillian-1989-honda-civic-wagovan/7032087344.html
+12/15/2019, 12:41:10 Note: attribute only had one index at https://dallas.craigslist.org/ftw/cto/d/weatherford-honda-civic-with-new-engine/7024985141.html
+12/15/2019, 12:41:11 Note: attribute only had one index at https://dallas.craigslist.org/mdf/cto/d/arlington-2015-honda-civic-coupe-ex/7024584779.html
+12/15/2019, 12:41:11 Note: attribute only had one index at https://dallas.craigslist.org/dal/cto/d/denton-2006-honda-civic-ex-coupe/7023321307.html
+12/15/2019, 12:41:11 Note: attribute only had one index at https://elpaso.craigslist.org/cto/d/fort-bliss-2002-honda-civic-lx-clean/7038338783.html
+12/15/2019, 12:41:11 Note: attribute only had one index at https://galveston.craigslist.org/cto/d/galveston-awesome-honda-civic-2017-base/7032656579.html
+12/15/2019, 12:41:12 CRASH: https://houston.craigslist.org/cto/d/2010-honda-civic/7036393390.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:41:13 Note: attribute only had one index at https://houston.craigslist.org/cto/d/katy-vendo-honda-civic/7021851077.html
+12/15/2019, 12:41:13 ERROR: https://waco.craigslist.org/cto/d/hillsboro-2015-honda-civic-coupe-lx/7031186620.html has expired
+12/15/2019, 12:41:14 Note: attribute only had one index at https://provo.craigslist.org/cto/d/american-fork-2007-honda-civic-hybrid/7033468205.html
+12/15/2019, 12:41:14 CRASH: https://blacksburg.craigslist.org/cto/d/blacksburg-2013-honda-civic-lx-4d-sold/7030971547.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 12:41:15 Note: attribute only had one index at https://kpr.craigslist.org/cto/d/kennewick-2008-honda-civic-si-fa5/7029922784.html
+12/15/2019, 12:41:15 Note: attribute only had one index at https://kpr.craigslist.org/cto/d/richland-1997-honda-civic-lx-manual/7028757368.html
+12/15/2019, 12:41:15 Note: attribute only had one index at https://seattle.craigslist.org/see/cto/d/seattle-2006-honda-civic-for-sale/7038073302.html
+12/15/2019, 12:41:16 Note: attribute only had one index at https://seattle.craigslist.org/sno/cto/d/everett-2015-honda-civic-exl-coupe-24k/7036018157.html
+12/15/2019, 12:41:16 Note: attribute only had one index at https://seattle.craigslist.org/see/cto/d/seattle-2006-honda-civic/7036011941.html
+12/15/2019, 12:41:16 Note: attribute only had one index at https://seattle.craigslist.org/see/cto/d/seattle-2006-honda-civic/7036011941.html
+12/15/2019, 12:41:16 Note: attribute only had one index at https://seattle.craigslist.org/see/cto/d/lynnwood-2004-honda-civic-lxlow-miles/7034454997.html
+12/15/2019, 12:41:16 Note: attribute only had one index at https://seattle.craigslist.org/sno/cto/d/lynnwood-2002-hondo-civic-ex-2dr-coupe/7033718147.html
+12/15/2019, 12:41:16 Note: attribute only had one index at https://seattle.craigslist.org/skc/cto/d/auburn-2002honda-civic/7033527486.html
+12/15/2019, 12:41:17 Note: attribute only had one index at https://seattle.craigslist.org/est/cto/d/kirkland-2000-honda-civic/7028672837.html
+12/15/2019, 12:41:17 Note: attribute only had one index at https://seattle.craigslist.org/tac/cto/d/lakewood-honda-civic-1995-coupe/7028288365.html
+12/15/2019, 12:41:17 CRASH: https://spokane.craigslist.org/cto/d/2008-honda-civic-ex-73k-miles/7024011757.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:41:18 Note: attribute only had one index at https://milwaukee.craigslist.org/cto/d/milwaukee-2004-honda-civic-hybrid/7037346228.html
+12/15/2019, 12:41:19 Note: attribute only had one index at https://milwaukee.craigslist.org/cto/d/milwaukee-2005-honda-civic-ex/7032050245.html
+12/15/2019, 12:41:20 CRASH: https://micronesia.craigslist.org/cto/d/honda-civic/7025518670.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:41:20 CRASH: https://micronesia.craigslist.org/cto/d/2014-honda-civic-si-sedan/7031865785.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:41:21 CRASH: https://micronesia.craigslist.org/cto/d/2003-honda-civic/7027891893.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:41:22 CRASH: https://micronesia.craigslist.org/cto/d/08-honda-civic-lx/7019150113.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:41:22 CRASH: https://micronesia.craigslist.org/cto/d/2002-honda-civic-ep3/7025530340.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:41:23 CRASH: https://micronesia.craigslist.org/cto/d/2003-honda-civic/6999066422.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:41:24 CRASH: https://micronesia.craigslist.org/cto/d/2003-honda-civic-lx-4dr-sedan/7013807406.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:41:24 CRASH: https://puertorico.craigslist.org/cto/d/carro/7032742978.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:41:24 CRASH: https://puertorico.craigslist.org/cto/d/venta/7027897973.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:41:24 CRASH: https://virgin.craigslist.org/cto/d/2003-honda-civic-sedan-for-sale/7017863603.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:41:25 CRASH: https://virgin.craigslist.org/cto/d/2003-honda-civic-lx-4dr-sedan/7014562291.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+
+
+12/15/2019, 12:54:54 ERROR: could not read cylinders at https://mohave.craigslist.org/cto/d/hackberry-1996-honda-hatch-back/7020443308.html
+12/15/2019, 12:54:55 CRASH: https://phoenix.craigslist.org/cph/cto/d/phoenix-1997-honda-civic-dx/7038328482.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 12:54:57 ERROR: could not read cylinders at https://phoenix.craigslist.org/wvl/cto/d/goodyear-98-honda-civic-c/7029216782.html
+12/15/2019, 12:55:00 ERROR: https://fresno.craigslist.org/cto/d/fresno-2006-honda-civicbad-motor/7036718153.html has expired
+12/15/2019, 12:55:01 ERROR: could not read cylinders at https://goldcountry.craigslist.org/cto/d/standard-1994-honda-civic/7035643195.html
+12/15/2019, 12:55:12 CRASH: https://redding.craigslist.org/cto/d/2016-honda-civic-lx/7034062010.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:55:13 CRASH: https://redding.craigslist.org/cto/d/2016-honda-civic-lx/7024204432.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:55:17 CRASH: https://sandiego.craigslist.org/nsd/cto/d/2013-honda-civic-lx-coupe-2d-5-vel/7030780508.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:55:17 CRASH: https://sfbay.craigslist.org/sby/cto/d/2003-honda-civic-smogged/7038447979.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:55:20 CRASH: https://slo.craigslist.org/cto/d/los-osos-2004-civic-hybrid-needs/7020762635.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 12:55:21 ERROR: https://stockton.craigslist.org/cto/d/stockton-2013-honda-civic-ex-sedan-4d/7033441235.html has expired
+12/15/2019, 12:55:22 CRASH: https://cosprings.craigslist.org/cto/d/colorado-springs-for-sale/7021442642.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 12:55:23 CRASH: https://hartford.craigslist.org/cto/d/2012-honda-civic-k-miles-clean-carfax/7035717643.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:55:24 CRASH: https://hartford.craigslist.org/cto/d/2012-honda-civic-k-miles-clean-carfax/7031525324.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:55:24 CRASH: https://hartford.craigslist.org/cto/d/2012-honda-civic-k-miles-clean-carfax/7028110943.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:55:25 CRASH: https://hartford.craigslist.org/cto/d/2012-honda-civic-k-miles-clean-carfax/7025669349.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:55:27 CRASH: https://washingtondc.craigslist.org/mld/cto/d/clarksville-2006-honda-civic/7034951292.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 12:55:28 ERROR: could not read cylinders at https://washingtondc.craigslist.org/mld/cto/d/montgomery-village-2004-honda-civic/7029989562.html
+12/15/2019, 12:55:30 CRASH: https://fortmyers.craigslist.org/col/cto/d/2014-honda-civic/7035054986.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:55:32 CRASH: https://miami.craigslist.org/brw/cto/d/2013-honda-civic-lx/7038596942.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:55:34 CRASH: https://miami.craigslist.org/brw/cto/d/2009-honda-civic-si-sedan-fa5-1-owner/7033480107.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:55:36 CRASH: https://spacecoast.craigslist.org/cto/d/melbourne-bogo-honda-civic/7031405279.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 12:55:39 ERROR: could not read cylinders at https://athensga.craigslist.org/cto/d/athens-2007-honda-civic-si/7035516710.html
+12/15/2019, 12:55:41 CRASH: https://honolulu.craigslist.org/big/cto/d/kamuela-honda-civic/7038194707.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 12:55:49 CRASH: https://boston.craigslist.org/bmw/cto/d/sherborn-2009-honda-civic-ex/7022161980.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 12:55:50 ERROR: https://boston.craigslist.org/gbs/cto/d/cambridge-2006-honda-civic-hybrid-140k/7004747565.html has expired
+12/15/2019, 12:55:52 ERROR: https://detroit.craigslist.org/okl/cto/d/west-bloomfield-2008-honda-civic/7034266718.html has expired
+12/15/2019, 12:55:53 CRASH: https://swmi.craigslist.org/cto/d/bridgman-1998-honda-civic-hx/7035129756.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 12:55:57 ERROR: could not read cylinders at https://kalispell.craigslist.org/cto/d/kalispell-honda-civic/7022216308.html
+12/15/2019, 12:56:00 CRASH: https://cnj.craigslist.org/cto/d/2005-honda-civic-hatchback-si/7028631579.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:56:02 CRASH: https://hudsonvalley.craigslist.org/cto/d/2008-honda-civic-ex/7037918730.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:56:07 CRASH: https://newyork.craigslist.org/que/cto/d/2013-honda-civic-ex-sdn-sunroofback-up/7025324960.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:56:14 ERROR: https://medford.craigslist.org/cto/d/white-city-2002-honda-civic-ex-low-miles/7035952550.html has expired
+12/15/2019, 12:56:19 CRASH: https://portland.craigslist.org/wsc/cto/d/honda-civic/7029780221.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:56:31 CRASH: https://houston.craigslist.org/cto/d/2010-honda-civic/7036393390.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:56:32 ERROR: https://waco.craigslist.org/cto/d/hillsboro-2015-honda-civic-coupe-lx/7031186620.html has expired
+12/15/2019, 12:56:34 CRASH: https://blacksburg.craigslist.org/cto/d/blacksburg-2013-honda-civic-lx-4d-sold/7030971547.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 12:56:36 CRASH: https://spokane.craigslist.org/cto/d/2008-honda-civic-ex-73k-miles/7024011757.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:56:37 CRASH: https://micronesia.craigslist.org/cto/d/honda-civic/7025518670.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:56:37 CRASH: https://micronesia.craigslist.org/cto/d/2014-honda-civic-si-sedan/7031865785.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:56:37 CRASH: https://micronesia.craigslist.org/cto/d/2003-honda-civic/7027891893.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:56:37 CRASH: https://micronesia.craigslist.org/cto/d/08-honda-civic-lx/7019150113.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:56:37 CRASH: https://micronesia.craigslist.org/cto/d/2002-honda-civic-ep3/7025530340.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:56:38 CRASH: https://micronesia.craigslist.org/cto/d/2003-honda-civic/6999066422.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:56:38 CRASH: https://micronesia.craigslist.org/cto/d/2003-honda-civic-lx-4dr-sedan/7013807406.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:56:38 CRASH: https://puertorico.craigslist.org/cto/d/carro/7032742978.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:56:39 CRASH: https://puertorico.craigslist.org/cto/d/venta/7027897973.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:56:40 CRASH: https://virgin.craigslist.org/cto/d/2003-honda-civic-sedan-for-sale/7017863603.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:56:41 CRASH: https://virgin.craigslist.org/cto/d/2003-honda-civic-lx-4dr-sedan/7014562291.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+
+no idea
+12/15/2019, 12:54:55 CRASH: https://phoenix.craigslist.org/cph/cto/d/phoenix-1997-honda-civic-dx/7038328482.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+
+no map?
+12/15/2019, 12:55:12 CRASH: https://redding.craigslist.org/cto/d/2016-honda-civic-lx/7034062010.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:55:13 CRASH: https://redding.craigslist.org/cto/d/2016-honda-civic-lx/7024204432.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+
+12/15/2019, 12:55:17 CRASH: https://sandiego.craigslist.org/nsd/cto/d/2013-honda-civic-lx-coupe-2d-5-vel/7030780508.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:55:17 CRASH: https://sfbay.craigslist.org/sby/cto/d/2003-honda-civic-smogged/7038447979.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:55:20 CRASH: https://slo.craigslist.org/cto/d/los-osos-2004-civic-hybrid-needs/7020762635.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 12:55:21 ERROR: https://stockton.craigslist.org/cto/d/stockton-2013-honda-civic-ex-sedan-4d/7033441235.html has expired
+12/15/2019, 12:55:22 CRASH: https://cosprings.craigslist.org/cto/d/colorado-springs-for-sale/7021442642.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 12:55:23 CRASH: https://hartford.craigslist.org/cto/d/2012-honda-civic-k-miles-clean-carfax/7035717643.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:55:24 CRASH: https://hartford.craigslist.org/cto/d/2012-honda-civic-k-miles-clean-carfax/7031525324.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:55:24 CRASH: https://hartford.craigslist.org/cto/d/2012-honda-civic-k-miles-clean-carfax/7028110943.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:55:25 CRASH: https://hartford.craigslist.org/cto/d/2012-honda-civic-k-miles-clean-carfax/7025669349.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:55:27 CRASH: https://washingtondc.craigslist.org/mld/cto/d/clarksville-2006-honda-civic/7034951292.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 12:55:28 ERROR: could not read cylinders at https://washingtondc.craigslist.org/mld/cto/d/montgomery-village-2004-honda-civic/7029989562.html
+12/15/2019, 12:55:30 CRASH: https://fortmyers.craigslist.org/col/cto/d/2014-honda-civic/7035054986.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:55:32 CRASH: https://miami.craigslist.org/brw/cto/d/2013-honda-civic-lx/7038596942.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:55:34 CRASH: https://miami.craigslist.org/brw/cto/d/2009-honda-civic-si-sedan-fa5-1-owner/7033480107.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:55:36 CRASH: https://spacecoast.craigslist.org/cto/d/melbourne-bogo-honda-civic/7031405279.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 12:55:39 ERROR: could not read cylinders at https://athensga.craigslist.org/cto/d/athens-2007-honda-civic-si/7035516710.html
+12/15/2019, 12:55:41 CRASH: https://honolulu.craigslist.org/big/cto/d/kamuela-honda-civic/7038194707.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 12:55:49 CRASH: https://boston.craigslist.org/bmw/cto/d/sherborn-2009-honda-civic-ex/7022161980.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 12:55:50 ERROR: https://boston.craigslist.org/gbs/cto/d/cambridge-2006-honda-civic-hybrid-140k/7004747565.html has expired
+12/15/2019, 12:55:52 ERROR: https://detroit.craigslist.org/okl/cto/d/west-bloomfield-2008-honda-civic/7034266718.html has expired
+12/15/2019, 12:55:53 CRASH: https://swmi.craigslist.org/cto/d/bridgman-1998-honda-civic-hx/7035129756.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 12:55:57 ERROR: could not read cylinders at https://kalispell.craigslist.org/cto/d/kalispell-honda-civic/7022216308.html
+12/15/2019, 12:56:00 CRASH: https://cnj.craigslist.org/cto/d/2005-honda-civic-hatchback-si/7028631579.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:56:02 CRASH: https://hudsonvalley.craigslist.org/cto/d/2008-honda-civic-ex/7037918730.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:56:07 CRASH: https://newyork.craigslist.org/que/cto/d/2013-honda-civic-ex-sdn-sunroofback-up/7025324960.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:56:14 ERROR: https://medford.craigslist.org/cto/d/white-city-2002-honda-civic-ex-low-miles/7035952550.html has expired
+12/15/2019, 12:56:19 CRASH: https://portland.craigslist.org/wsc/cto/d/honda-civic/7029780221.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:56:31 CRASH: https://houston.craigslist.org/cto/d/2010-honda-civic/7036393390.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:56:32 ERROR: https://waco.craigslist.org/cto/d/hillsboro-2015-honda-civic-coupe-lx/7031186620.html has expired
+12/15/2019, 12:56:34 CRASH: https://blacksburg.craigslist.org/cto/d/blacksburg-2013-honda-civic-lx-4d-sold/7030971547.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 12:56:36 CRASH: https://spokane.craigslist.org/cto/d/2008-honda-civic-ex-73k-miles/7024011757.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:56:37 CRASH: https://micronesia.craigslist.org/cto/d/honda-civic/7025518670.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:56:37 CRASH: https://micronesia.craigslist.org/cto/d/2014-honda-civic-si-sedan/7031865785.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:56:37 CRASH: https://micronesia.craigslist.org/cto/d/2003-honda-civic/7027891893.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:56:37 CRASH: https://micronesia.craigslist.org/cto/d/08-honda-civic-lx/7019150113.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:56:37 CRASH: https://micronesia.craigslist.org/cto/d/2002-honda-civic-ep3/7025530340.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:56:38 CRASH: https://micronesia.craigslist.org/cto/d/2003-honda-civic/6999066422.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:56:38 CRASH: https://micronesia.craigslist.org/cto/d/2003-honda-civic-lx-4dr-sedan/7013807406.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:56:38 CRASH: https://puertorico.craigslist.org/cto/d/carro/7032742978.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:56:39 CRASH: https://puertorico.craigslist.org/cto/d/venta/7027897973.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:56:40 CRASH: https://virgin.craigslist.org/cto/d/2003-honda-civic-sedan-for-sale/7017863603.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+12/15/2019, 12:56:41 CRASH: https://virgin.craigslist.org/cto/d/2003-honda-civic-lx-4dr-sedan/7014562291.html crashed during scraping of html response 'NoneType' object has no attribute 'get'
+
+
+12/15/2019, 13:29:31 CRASH: https://phoenix.craigslist.org/cph/cto/d/phoenix-1997-honda-civic-dx/7038328482.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 13:29:32 Note: https://fresno.craigslist.org/cto/d/fresno-2006-honda-civicbad-motor/7036718153.html has been deleted by its author
+12/15/2019, 13:29:36 CRASH: https://slo.craigslist.org/cto/d/los-osos-2004-civic-hybrid-needs/7020762635.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 13:29:36 Note: https://stockton.craigslist.org/cto/d/stockton-2013-honda-civic-ex-sedan-4d/7033441235.html has been deleted by its author
+12/15/2019, 13:29:37 CRASH: https://cosprings.craigslist.org/cto/d/colorado-springs-for-sale/7021442642.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 13:29:40 CRASH: https://washingtondc.craigslist.org/mld/cto/d/clarksville-2006-honda-civic/7034951292.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 13:29:43 CRASH: https://spacecoast.craigslist.org/cto/d/melbourne-bogo-honda-civic/7031405279.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 13:29:44 CRASH: https://honolulu.craigslist.org/big/cto/d/kamuela-honda-civic/7038194707.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 13:29:45 CRASH: https://boston.craigslist.org/bmw/cto/d/sherborn-2009-honda-civic-ex/7022161980.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 13:29:45 Note: https://boston.craigslist.org/gbs/cto/d/cambridge-2006-honda-civic-hybrid-140k/7004747565.html has been deleted by its author
+12/15/2019, 13:29:46 Note: https://detroit.craigslist.org/okl/cto/d/west-bloomfield-2008-honda-civic/7034266718.html has been deleted by its author
+12/15/2019, 13:29:46 CRASH: https://swmi.craigslist.org/cto/d/bridgman-1998-honda-civic-hx/7035129756.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 13:29:50 Note: https://medford.craigslist.org/cto/d/white-city-2002-honda-civic-ex-low-miles/7035952550.html has been deleted by its author
+12/15/2019, 13:29:51 Note: https://waco.craigslist.org/cto/d/hillsboro-2015-honda-civic-coupe-lx/7031186620.html has been deleted by its author
+12/15/2019, 13:29:52 CRASH: https://blacksburg.craigslist.org/cto/d/blacksburg-2013-honda-civic-lx-4d-sold/7030971547.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 13:29:54 CRASH: https://micronesia.craigslist.org/cto/d/2002-honda-civic-ep3/7025530340.html crashed during scraping of html response 'NoneType' object has no attribute 'get_text'
+12/15/2019, 13:29:55 Note: Attribute cilindros:  was not found in dictionary for https://puertorico.craigslist.org/cto/d/carro/7032742978.html
+12/15/2019, 13:29:55 Note: Attribute color pintura:  was not found in dictionary for https://puertorico.craigslist.org/cto/d/carro/7032742978.html
+12/15/2019, 13:29:55 Note: Attribute combustible:  was not found in dictionary for https://puertorico.craigslist.org/cto/d/carro/7032742978.html
+12/15/2019, 13:29:55 Note: Attribute condición:  was not found in dictionary for https://puertorico.craigslist.org/cto/d/carro/7032742978.html
+12/15/2019, 13:29:55 Note: Attribute estado título:  was not found in dictionary for https://puertorico.craigslist.org/cto/d/carro/7032742978.html
+12/15/2019, 13:29:55 Note: Attribute tamaño:  was not found in dictionary for https://puertorico.craigslist.org/cto/d/carro/7032742978.html
+12/15/2019, 13:29:55 Note: Attribute tipo:  was not found in dictionary for https://puertorico.craigslist.org/cto/d/carro/7032742978.html
+12/15/2019, 13:29:55 Note: Attribute tracción:  was not found in dictionary for https://puertorico.craigslist.org/cto/d/carro/7032742978.html
+12/15/2019, 13:29:55 Note: Attribute transmisión:  was not found in dictionary for https://puertorico.craigslist.org/cto/d/carro/7032742978.html
+12/15/2019, 13:29:56 Note: Attribute cilindros:  was not found in dictionary for https://puertorico.craigslist.org/cto/d/venta/7027897973.html
+12/15/2019, 13:29:56 Note: Attribute color pintura:  was not found in dictionary for https://puertorico.craigslist.org/cto/d/venta/7027897973.html
+12/15/2019, 13:29:56 Note: Attribute combustible:  was not found in dictionary for https://puertorico.craigslist.org/cto/d/venta/7027897973.html
+12/15/2019, 13:29:56 Note: Attribute condición:  was not found in dictionary for https://puertorico.craigslist.org/cto/d/venta/7027897973.html
+12/15/2019, 13:29:56 Note: Attribute estado título:  was not found in dictionary for https://puertorico.craigslist.org/cto/d/venta/7027897973.html
+12/15/2019, 13:29:56 Note: Attribute tamaño:  was not found in dictionary for https://puertorico.craigslist.org/cto/d/venta/7027897973.html
+12/15/2019, 13:29:56 Note: Attribute tipo:  was not found in dictionary for https://puertorico.craigslist.org/cto/d/venta/7027897973.html
+12/15/2019, 13:29:56 Note: Attribute tracción:  was not found in dictionary for https://puertorico.craigslist.org/cto/d/venta/7027897973.html
+12/15/2019, 13:29:56 Note: Attribute transmisión:  was not found in dictionary for https://puertorico.craigslist.org/cto/d/venta/7027897973.html
