@@ -1,5 +1,6 @@
 raw_car_data = [
     # make, model, (trims/submodels)
+    ("mitsubishi", "lancer", ("es", "gsr", "mr", "gts", "gt")),
     ("honda", "civic", ("si", "lx", "ex", "dx", "exl", "ex-l", "lx-s"))
 ]
 
@@ -21,4 +22,4 @@ for i in range(len(raw_car_data)):
 for x in c.values():
     cars.append(x)
 
-#TODO fix this whole system, it is very patched and i don't like it but it works
+#TODO fix this whole system, i don't like it but it works

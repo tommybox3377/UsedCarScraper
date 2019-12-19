@@ -2,6 +2,7 @@ from CLData import get_all_urls, get_all_cl_cities_urls, first_search, check_if_
 import MySQL
 from Cars import cars
 import Logger
+import datetime
 
 CraigsList = True
 Carz = False  # Note it is cars.com but fro var naming reasons it is stored as Carz

@@ -6,7 +6,7 @@ import MySQL
 import Logger
 import re
 
-ignore = []  # TODO optional add places to ignore then implenbt into get_all_cities
+ignore = []  # TODO optional add places to ignore then implement into get_all_cities
 owners = True
 dealers = False
 
@@ -16,8 +16,7 @@ def get_all_cl_cities_urls():
     response = requests.get(r"https://www.craigslist.org/about/sites")
     content = response.content
     soup = bs(content, "html.parser")
-    all_in_US = soup.find_all("div", {"class": "colmask"})[
-        0]  # 0 index is just for how craigslist breaks up the urls by location
+    all_in_US = soup.find_all("div", {"class": "colmask"})[0]  # 0 index is just for how craigslist breaks up the urls by location
     for link in all_in_US.find_all('a'):
         urls.append(link.get('href'))
     return urls
@@ -194,7 +193,7 @@ def first_search(url, car):
     for x, y in results.items():
         print(x, y)
 
-    MySQL.populate_table_with_dict("all_cars", results)
+    MySQL.populate_table_with_dict("test_table", results)
 
 
 def update_car(url):
@@ -211,7 +210,10 @@ def check_if_listing_exists(url):
     try:
         response = requests.get(url)
         if response.status_code != 200:
-            Logger.LogError(f"{url} did not have a 200 response code")
+            if response.status_code == 404:
+                Logger.LogNote(f"{url} had a 404 response code")
+            else:
+                Logger.LogError(f"{url} did not have a 200 response code")
             return False
         if "This posting has been flagged for removal." in response.text:
             Logger.LogNote(f"{url} was flagged for removal")

@@ -1,13 +1,12 @@
 import mysql.connector
+import Creds
 
 mydb = mysql.connector.connect(
-    # connects to MySQL
-    host="",
-    user="",
-    password="",
-    database=""
+    host=Creds.host,
+    user=Creds.user,
+    password=Creds.password,
+    database=Creds.database
 )
-
 # my_cursor = mydb.cursor(dictionary=True)
 my_cursor = mydb.cursor()
 
@@ -17,7 +16,6 @@ def create_db(name):
 
 
 def create_table(name, col1):
-    # TODO make it able to take in different date tytpes
     my_cursor.execute(f"CREATE TABLE {name} ({col1} VARCHAR(255))")
     mydb.commit()
 
@@ -69,9 +67,15 @@ def update_data(table, carid, *args):
         mydb.commit()
 
 
-def get_row(table, col, value):
+def get_rows_where(table, col, value):
     my_cursor.execute(f"SELECT * FROM {table} WHERE {col} = '{value}'")
-    data = my_cursor.fetchone()
+    data = my_cursor.fetchall()
+    return data
+
+
+def get_rows(table):
+    my_cursor.execute(f"SELECT * FROM {table}")
+    data = my_cursor.fetchall()
     return data
 
 
@@ -104,3 +108,7 @@ def delete_url(url):
     sql_formula = f"DELETE FROM urlstoscrape WHERE url = '{url}'"
     my_cursor.execute(sql_formula)
     mydb.commit()
+
+
+def set_sup_db():
+    pass

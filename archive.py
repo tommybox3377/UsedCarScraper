@@ -1,12 +1,10 @@
 cols_to_add = [
     ("Url", "VARCHAR", 255),
     ("DatetimePosted", "DATETIME"),
-    ("AgeOfPost", "TIME"),
     ("DaysSincePosted", "SMALLINT"),
     ("Latitude", "DOUBLE"),
     ("Longitude", "DOUBLE"),
     ("NumOfPics", "TINYINT"),
-    ("CarCondition", "VARCHAR", 255),
     ("Title", "VARCHAR", 255),
     ("Year", "YEAR"),
     ("Trim", "VARCHAR", 255),
@@ -23,15 +21,24 @@ cols_to_add = [
     ("PostLength", "INT"),
     ("CLCity", "VARCHAR", 255),
     ("NumOfAttributes", "TINYINT"),
+    ("CarCondition", "VARCHAR", 255),
     ("PostID", "BIGINT"),
-    ("CarID", "BIGINT"),  # BIGINT NOT NULL AUTO_INCREMENT PRIMARY KEY
-    ("PriceHistory", "VARCHAR", 1785)
+    ("PostHistory", "VARCHAR", 1785),
+    ("CarID", "BIGINT NOT NULL AUTO_INCREMENT PRIMARY KEY"),
+    ("PriceHistory", "VARCHAR", 1785),
+    ("make", "varchar", "255"),
+    ("model", "varchar", "255"),
+    ("website", "varchar", "255"),
+    ("CarAge", "int"),
+    ("DateUpdated", "datetime"),
+    ("DaysSinceUpdated", "int")
 ]
+
 # for col in cols_to_add:
 #     if len(col) == 2:
-#         MySQL.add_column(tables[0], col[0], col[1])
+#         MySQL.add_column("test_table", col[0], col[1])
 #     if len(col) == 3:
-#         MySQL.add_column(tables[0], col[0], col[1], col[2])
+#         MySQL.add_column("test_table", col[0], col[1], col[2])
 
 # test_urls = [
 #     "https://auburn.craigslist.org/cto/d/opelika-honda-civic-ex-5-speed/7037599414.html",
