@@ -5,7 +5,7 @@ import Logger
 import datetime
 
 CraigsList = True
-Carz = False  # Note it is cars.com but fro var naming reasons it is stored as Carz
+Carz = False  # Note it is cars.com but for var naming reasons it is stored as Carz
 Facebook = False
 
 
